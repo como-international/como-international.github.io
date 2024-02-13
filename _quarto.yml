@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: ""
+  site-url: https://como-international.github.io
+
+  page-footer:
+    left: "This page is built with [Quarto](https://quarto.org/)"
+    right: "&copy; CC-By CoMo Consortium"
+
+  navbar:
+    title: false
+    logo: img/CoMo-logo-medium-white_resized.png
+    href: https://como-international.github.io
+    search: true
+    right:
+      # - href: index.qmd
+      #   text: Home
+      - text: "About"
+        menu:
+        - about.qmd
+        - team.qmd
+        - contact.qmd
+      - models.qmd
+      - research.qmd
+      - training.qmd
+
+format:
+  html:
+    theme: [sandstone]
+    toc: true
+    toc-location: left

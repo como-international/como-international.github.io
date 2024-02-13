@@ -1,0 +1,21 @@
+---
+title: "The CoMo Consortium"
+---
+
+The COVID-19 International Modelling Consortium (CoMo Consortium) was created by researchers at the University of Oxford together with academic colleagues at Cornell University and is partnering with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia, and South and North America.
+
+The CoMo Consortium uses a participatory approach to provide decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context.
+
+## Why policymakers need the CoMo model
+
+COVID-19 is continuing to spread across the world at a rapid rate, with at least 185 countries affected and fears of further waves of infection.
+
+The pandemic has presented myriad challenges for health care systems around the world, including pressures on health care staff, general hospital beds, intensive care capacity and specialised equipment. In addition to the health effects of the disease, lockdown measures to contain the disease have placed a significant economic burden on countries and communities.
+
+Policymakers must balance curtailing the negative health effects of the pandemic against minimising the economic impact on societies, calibrating these decisions for the epidemiological, social, cultural and infrastructure context of an individual country. There are few options for treatment for Covid-19, so countries that choose to try to interrupt its spread must rely heavily on non-pharmaceutical interventions (NPIs); these NPIs fall into various categories of behaviour change, including self-isolation for symptomatic individuals, increased hand hygiene, and physical distancing in social settings.
+
+## How we work
+
+The CoMo Consortium has developed an age-structured, compartmental SEIRS (susceptible-exposed-infectious-recovered-susceptible) model to estimate the trajectory of COVID-19 based on different scenarios and to assess the potential impact of the various NPIs, as well as treatments and vaccines, when they become available.
+
+A user-friendly, web-based interface enables training on and use of the model by member modelling groups, while dashboards and visualisation tools allow policymakers to see the predicted impacts of different NPIs in real time. The CoMo Consortium comprises several working groups, with each group playing a specific role, as outlined here.

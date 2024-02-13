@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+The COVID-19 International Modelling Consortium (CoMo Consortium) was created by researchers at the University of Oxford together with academic colleagues at Cornell University and is partnering with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia, and South and North America.
+
+The CoMo Consortium uses a participatory approach to provide decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context.
