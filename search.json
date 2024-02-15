@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "participating_countries.html",
-    "href": "participating_countries.html",
-    "title": "Participating Countries",
-    "section": "",
-    "text": "Reading layer `countries' from data source \n  `https://rstudio.github.io/leaflet/json/countries.geojson' \n  using driver `GeoJSON'\nSimple feature collection with 177 features and 2 fields\nGeometry type: MULTIPOLYGON\nDimension:     XY\nBounding box:  xmin: -180 ymin: -90 xmax: 180 ymax: 83.64513\nGeodetic CRS:  WGS 84"
-  },
-  {
     "objectID": "news/2021-12-01-interview-with-manar-marzouk/index.html",
     "href": "news/2021-12-01-interview-with-manar-marzouk/index.html",
     "title": "Interviews with Manar Marzouk, Global Health Researcher, Syria (North West and North East)",
@@ -28,11 +21,11 @@
     "text": "POLICY SUPPORT\nFacilitating a direct link between the experts involved in developing the models and interpreting their outputs, the local in-country experts, and the policymakers in each country.\n\n\nMODEL DEVELOPMENT\nWriting, coding, debugging and updating the primary model structure.\n\n\nINTERFACE DEVELOPMENT\nCreation of a web-based interface that enables non-modellers to run the models, based on their local parameters.\n\n\nECONOMIC MODELLING\nConducting modelling to assess the economic costs and impacts arising from an intervention or a suite of interventions.\n\n\nEVIDENCE SYNTHESIS\nCombining scientific evidence relating to the Covid-19 pandemic with model projections, economics and financing to create evidence-based policy briefs.\n\n\nOUTREACH AND COMMUNICATIONS\nEngaging in-country experts and policymakers who are seeking additional modelling support to deal with their specific Covid-19 situation."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "inc_pc_map.html",
+    "href": "inc_pc_map.html",
+    "title": "",
     "section": "",
-    "text": "CoMo supports a participatory and collaborative approach. It is our intention for the CoMo model to go deeper and wider so that more countries and teams can benefit. If you would like to access the model, discuss how to use it and join our consortium please contact us.\n\nGeneral enquiries: como.enquiries@ndm.ox.ac.uk\nPress Enquiries: tracy.evans@ndm.ox.ac.uk"
+    "text": "library(leaflet)\n\ndf &lt;- read.csv(file=\"data/como_countries.csv\")\npal &lt;- colorFactor(\n  c(\n    \"#22577a\",\n    \"#38a3a5\",\n    \"#57cc99\",\n    \"#80ed99\",\n    # \"#c7f9cc\"\n    \"#aec3b0\"\n  ),\n  domain = c(\"WHO EMR\", \"Stage 1\", \"Stage 2\", \"Stage 3\", \"Stage 4\")\n)\n\nleaflet(data = df) %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addCircleMarkers(\n    lng = ~longitude, lat = ~latitude,\n    popup = ~country_name, group = ~como_type,\n    color = ~pal(como_type),\n    radius = 6,\n    stroke = FALSE, fillOpacity = 0.8\n  ) %&gt;%\n  # addMarkers(lng = ~longitude, lat = ~latitude, popup = ~country_name, group = ~como_type) %&gt;%\n  addLayersControl(\n    overlayGroups = c(\"WHO EMR\", \"Stage 1\", \"Stage 2\", \"Stage 3\", \"Stage 4\"),\n    options = layersControlOptions(collapsed = FALSE)\n  )"
   },
   {
     "objectID": "about.html",
@@ -40,6 +33,13 @@
     "title": "About",
     "section": "",
     "text": "The COVID-19 International Modelling Consortium (CoMo Consortium) was created by researchers at the University of Oxford together with academic colleagues at Cornell University and is partnering with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia, and South and North America.\nThe CoMo Consortium uses a participatory approach to provide decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "CoMo supports a participatory and collaborative approach. It is our intention for the CoMo model to go deeper and wider so that more countries and teams can benefit. If you would like to access the model, discuss how to use it and join our consortium please contact us.\n\nGeneral enquiries: como.enquiries@ndm.ox.ac.uk\nPress Enquiries: tracy.evans@ndm.ox.ac.uk"
   },
   {
     "objectID": "index.html#why-policymakers-need-the-como-model",
