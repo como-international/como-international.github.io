@@ -8,7 +8,42 @@ execute:
 #| column: screen
 
 library(leaflet)
-leaflet() %>%
+
+df <- read.csv(file="data/como_countries.csv")
+pal <- colorFactor(
+  c(
+    "#22577a",
+    "#38a3a5",
+    "#57cc99",
+    "#80ed99",
+    # "#c7f9cc"
+    "#aec3b0"
+  ),
+  domain = c("WHO EMR", "Stage 1", "Stage 2", "Stage 3", "Stage 4")
+)
+
+leaflet(data = df) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+  addCircleMarkers(
+    lng = ~longitude, lat = ~latitude,
+    popup = ~country_name, group = ~como_type,
+    color = ~pal(como_type),
+    radius = 6,
+    stroke = FALSE, fillOpacity = 0.8
+  ) %>%
+  # addMarkers(lng = ~longitude, lat = ~latitude, popup = ~country_name, group = ~como_type) %>%
+  addLayersControl(
+    overlayGroups = c("WHO EMR", "Stage 1", "Stage 2", "Stage 3", "Stage 4"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+
+```
+
+```{r}
+
+countries <- sf::st_read("https://rstudio.github.io/leaflet/json/countries.geojson")
+map <- leaflet::leaflet(countries)
+map
+
 ```
