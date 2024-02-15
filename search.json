@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "participating_countries.html",
+    "href": "participating_countries.html",
+    "title": "Participating Countries",
+    "section": "",
+    "text": "Reading layer `countries' from data source \n  `https://rstudio.github.io/leaflet/json/countries.geojson' \n  using driver `GeoJSON'\nSimple feature collection with 177 features and 2 fields\nGeometry type: MULTIPOLYGON\nDimension:     XY\nBounding box:  xmin: -180 ymin: -90 xmax: 180 ymax: 83.64513\nGeodetic CRS:  WGS 84"
+  },
+  {
     "objectID": "news/2021-12-01-interview-with-manar-marzouk/index.html",
     "href": "news/2021-12-01-interview-with-manar-marzouk/index.html",
     "title": "Interviews with Manar Marzouk, Global Health Researcher, Syria (North West and North East)",
