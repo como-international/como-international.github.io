@@ -1,0 +1,65 @@
+---
+title: "Publications"
+format:
+    html: 
+        toc-title: "Publication Types"
+---
+
+## Journal Articles
+
+Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
+
+International Journal of Health and Policy Management, June 2021
+Authors: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
+
+New COVID-19 Resurgence in the WHO Eastern Mediterranean Region
+
+The Lancet, 25 March, 2021
+Authors: Pierre Nabeth, Mahmoud Hassan, Keyrellous Adib, Abdinasir Abubakar, Richard Brennan
+
+Potential health and economic impacts of dexamethasone treatment for patients with COVID-19
+
+Nature Communications. 10 February 2021
+Authors: Ricardo Águas, Adam Mahdi, Rima Shretta, Peter Horby, Martin Landray, Lisa White , The CoMo Consortium
+
+Modelling the COVID-19 Pandemic in Context: An International Participatory Approach
+
+BMJ Global Health
+Vol 5, Issue 12. December 2020.
+Authors: Ricardo Aguas, Lisa White, Nathaniel Hupert, Rima Shretta, Wirichada Pan-Ngum, Olivier Celhay, Ainura Moldokmatova, Fatima Arifi, Ali Mirzazadeh, Hamid Sharifi, Keyrellous Adib, Mohammad Nadir Sahak, Caroline Franco, Renato Coutinho, CoMo Consortium
+
+Can Existing Unrelated Vaccines Boost a COVID-19 Vaccine Prime?
+
+February 2021
+Authors: Nathaniel Hupert, Daniela Marín-Hernandez, Douglas F. Nixon
+
+Anticipated Reduction in COVID-19 Mortality due to Population-wide BCG vaccination: Evidence from Germany
+
+February 2021
+Authors: Daniela Marin-Hernandez, Douglas F. Nixon, Nathaniel Hupert
+
+Evaluating the Impact of Intervention Strategies on the First Wave and Predicting the Second Wave of COVID-19 in Thailand: A Mathematical Modelling Study
+
+January 2021
+Authors: Wiriya Mahikul, Palang Chotsiri, Kritchavat Ploddi, Wirichada Pan-ngum
+
+Perspectives on public health interventions in the management of the COVID-19 pandemic in Thailand
+
+December 2020
+Authors: Wirichada Pan-ngum, Tassawan Poomchaichote, Pimnara Peerawaranun, Natinee Kulpijit, Anne Osterrieder, Naomi Waithira, Mavuto Mukaka, Bhensri Naemiratch, Rita Chanviriyavuth, Supa-at Asarath, Supanat Ruangkajorn, Noppadon Kannika, Phaik Yeong Cheah
+
+The Immunologists’ Guide to Pandemic Preparedness
+
+Authors: Daniela Marín-Hernández, Nathaniel Hupert, Douglas F Nixon
+
+Comparing the Potential Effectiveness of Interventions against Coronavirus 2019 Outbreak in the Lao PDR: A Mathematical Modelling Approach
+
+Lao Medical Journal 2020, 11(11):3-7
+Authors: Phetsavanh Chanthavilay, Mick Soukavong, Yun Nandar Aung, Sai Thein Than Tun, Lisa J. White, Mayfong Mayxay
+
+
+## Policy Briefs
+
+## Articles
+
+## Blog Posts

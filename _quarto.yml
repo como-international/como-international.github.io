@@ -7,28 +7,34 @@ website:
   site-url: https://como-international.github.io
 
   page-footer:
-    left: "This page is built with [Quarto](https://quarto.org/)"
-    right: "&copy; CC-By CoMo Consortium"
+    center: Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    right: "&copy; 2020-2024 &middot; CoMo Consortium"
 
   navbar:
     title: false
     logo: img/CoMo-logo-medium-white_resized.png
+    logo-alt: "CoMo Consortium"
     href: https://como-international.github.io
     search: true
-    right:
+    background: "#00214d" # oxford blue
+    # background: "#0a2b57" # 25% lighter
+    left:
       # - href: index.qmd
       #   text: Home
+      - news.qmd
+      - publications.qmd
+      - models.qmd
+      - research.qmd
+      - training.qmd
       - text: "About"
         menu:
         - about.qmd
         - team.qmd
+        - participating_countries.qmd
         - contact.qmd
-      - models.qmd
-      - research.qmd
-      - training.qmd
 
 format:
   html:
-    theme: [sandstone]
+    theme: [flatly, styles/custom.scss]
     toc: true
     toc-location: left

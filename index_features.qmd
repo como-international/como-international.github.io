@@ -1,0 +1,45 @@
+
+::: {.grid}
+
+::: {.g-col-4}
+###### **POLICY SUPPORT**
+
+Facilitating a direct link between the experts involved in developing the models and interpreting their outputs, the local in-country experts, and the policymakers in each country.
+:::
+
+::: {.g-col-4}
+###### **MODEL DEVELOPMENT**
+
+Writing, coding, debugging and updating the primary model structure.
+
+:::
+
+::: {.g-col-4}
+###### **INTERFACE DEVELOPMENT**
+
+Creation of a web-based interface that enables non-modellers to run the models, based on their local parameters.
+
+:::
+
+::: {.g-col-4}
+###### **ECONOMIC MODELLING**
+
+Conducting modelling to assess the economic costs and impacts arising from an intervention or a suite of interventions.
+
+:::
+
+::: {.g-col-4}
+###### **EVIDENCE SYNTHESIS**
+
+Combining scientific evidence relating to the Covid-19 pandemic with model projections, economics and financing to create evidence-based policy briefs.
+
+:::
+
+::: {.g-col-4}
+###### **OUTREACH AND COMMUNICATIONS**
+
+Engaging in-country experts and policymakers who are seeking additional modelling support to deal with their specific Covid-19 situation.
+
+:::
+
+:::

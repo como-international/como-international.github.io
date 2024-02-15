@@ -1,0 +1,45 @@
+/*-- scss:rules --*/
+
+/*-- navbar --*/
+
+.navbar {
+    padding-top: 0;
+    // padding-left: 10em;
+    // margin-left: 10em;
+    padding-bottom: 0;
+    font-size: 1.2em;
+    // // font-family: 'Arsenal', sans-serif;
+    // //font-family: 'Bebas Neue', sans-serif;
+    //  font-family: 'Economica', sans-serif;
+     text-transform: uppercase;
+    //  background-image: url("img/Brand_slide.png");
+    //  background-size: 1100px;
+}
+
+.navbar-brand {
+    // position: absolute;
+    top: 0px;
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: #00214d;
+}
+
+.navbar-brand.navbar-brand-logo {
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: .3em;
+    margin-right: 0;
+    margin-left: 2em;
+}
+
+.navbar-logo {
+    max-height: 70px;
+    padding-top: 0em;
+    margin: 0;
+    width: auto;
+    align-items: baseline;
+}
+
+.nav-item {
+    margin-top: 3rem; 
+}

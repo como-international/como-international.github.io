@@ -1,10 +1,34 @@
 ---
-title: "The CoMo Consortium"
+pagetitle: "The CoMo Consortium"
+page-layout: custom
+# section-divs: false
+toc: false
+css: styles/index.css
 ---
+
+::: {.content-block}
 
 The COVID-19 International Modelling Consortium (CoMo Consortium) was created by researchers at the University of Oxford together with academic colleagues at Cornell University and is partnering with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia, and South and North America.
 
 The CoMo Consortium uses a participatory approach to provide decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context.
+
+:::
+
+::: {.column-screen .alt-background}
+
+::: {.column-body}
+
+::: {.content-block}
+
+{{< include index_features.qmd >}}
+
+:::
+
+:::
+
+:::
+
+::: {.content-block}
 
 ## Why policymakers need the CoMo model
 
@@ -19,3 +43,6 @@ Policymakers must balance curtailing the negative health effects of the pandemic
 The CoMo Consortium has developed an age-structured, compartmental SEIRS (susceptible-exposed-infectious-recovered-susceptible) model to estimate the trajectory of COVID-19 based on different scenarios and to assess the potential impact of the various NPIs, as well as treatments and vaccines, when they become available.
 
 A user-friendly, web-based interface enables training on and use of the model by member modelling groups, while dashboards and visualisation tools allow policymakers to see the predicted impacts of different NPIs in real time. The CoMo Consortium comprises several working groups, with each group playing a specific role, as outlined here.
+
+:::
+
