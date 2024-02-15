@@ -1,0 +1,8 @@
+---
+title: "Covid-19 in Bangladesh"
+date: 2020-12-01
+categories:
+    - news
+---
+
+Main text
