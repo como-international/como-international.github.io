@@ -16,7 +16,14 @@ pal <- colorFactor(
   domain = c("WHO EMR", "Stage 1", "Stage 2", "Stage 3", "Stage 4")
 )
 
-leaflet(data = df) %>%
+leaflet(
+  data = df, 
+  options = leafletOptions(
+      zoomControl = FALSE,
+      # dragging = FALSE,
+      minZoom = 2, maxZoom = 3
+    )
+  ) %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addCircleMarkers(
     lng = ~longitude, lat = ~latitude,
