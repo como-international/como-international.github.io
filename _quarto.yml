@@ -20,6 +20,7 @@ website:
     background: "#00214d" # oxford blue
     # background: "#0a2b57" # 25% lighter
     # background: "#ddd"
+    foreground: light
     left:
       - href: index.qmd
         text: Home
