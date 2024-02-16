@@ -1,0 +1,30 @@
+---
+title: "The COVID-19 Internationa Modelling Consortium (CoMo Consortium) enters a new phase"
+date: 2020-05-12
+categories:
+    - news
+---
+
+Created in March 2020 to assist policymakers to make use of existing evidence in mathematical and epidemiological models to inform strategies for minimising the impact of COVID-19, the CoMo Consortium brings together mathematical modellers, epidemiologists, health economists and public health experts from more than 40 countries across Africa, Asia and South and North America.
+
+The CoMo Consortium is delighted to have been awarded funding by the University’s COVID-19 Research Response Fund, enabling the group to continue to support country members, predominantly low- and middle-income countries, who require modelling support for non-pharmaceutical interventions such as social distancing, mask wearing and handwashing, while they wait for vaccines and to support these countries with modelling the implementation of vaccine programmes.
+
+![Image: CoMo identity](old_como_pic.webp)
+
+CoMo uses an innovative participatory approach, leveraging experts from the University of Oxford and other collaborating partners to provide capacity building and support to in-country modellers.
+
+**Lisa J. White**, Professor of Modelling and Epidemiology at the University of Oxford and Director of the CoMo Consortium, explains:
+
+> “Our approach in the CoMo Consortium represents a new more equitable way to conduct pandemic modelling. Here, experts within the country teams take the leading role in modelling the pandemic working closely with national policymakers. Researchers at Oxford provide technical and consultative support as needed. Modelling work is carried out within the health and policy context of each country leading to rapid uptake of results via continuous communication with the decisionmakers.”
+
+This approach has enabled in-country teams to assist policymakers in making evidence-based decisions to contain the spread of COVID-19, supported by epidemiological and economic models adapted to each country’s context. In addition to this the group has published a series of papers which are now published.
+
+## CoMo Consortium Model Outputs
+
+The predictions of the model can enable policymakers to make data-based decisions to inform their public health responses, such as:
+
+- The impact of the various mitigation strategies on virus transmission, mechanisms for ‘flattening he epidemic curve’, lockdown release strategies, and deciding which interventions will be most effective in their specific context.
+- The comparative demand for general hospital beds and ICU beds under different intervention strategies.
+- The quantity of tests, personal protective equipment, ventilators and other supportive tools needed for the diagnosis and treatment of patients with COVID-19, and the costs of the equipment needed.
+
+The CoMo Consortium model is currently being used around the world to facilitate policy discussions and shape intervention strategies. It is also being modified for local purposes by the in-country teams and being used as a comparator with existing in-country models.
