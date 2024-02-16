@@ -8,13 +8,13 @@ website:
 
   page-footer:
     center: Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
-    right: "&copy; 2020-2024 &middot; CoMo Consortium"
+    right: "&copy; 2020-2024 &middot; CoMo International"
 
   navbar:
     title: false
     # logo: img/CoMo-logo-medium-white_resized.png
     logo: img/como_inter_dark.png
-    logo-alt: "CoMo Consortium"
+    logo-alt: "CoMo International"
     href: https://como-international.github.io
     search: true
     background: "#00214d" # oxford blue
