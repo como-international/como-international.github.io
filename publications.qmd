@@ -4,62 +4,243 @@ format:
     html: 
         toc-title: "Publication Types"
 ---
-
+:::{.column-body-outset}
+::: {.panel-tabset}
 ## Journal Articles
 
-Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
 
-International Journal of Health and Policy Management, June 2021
-Authors: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
+<!-- - Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
+: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
+: *International Journal of Health and Policy Management* (June 2021)
+: [https://doi.org/10.34172/ijhpm.2021.48](https://doi.org/10.34172/ijhpm.2021.48)
 
-New COVID-19 Resurgence in the WHO Eastern Mediterranean Region
+- Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
+: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
+: *International Journal of Health and Policy Management* (June 2021)
+: [https://doi.org/10.34172/ijhpm.2021.48](https://doi.org/10.34172/ijhpm.2021.48)
 
-The Lancet, 25 March, 2021
-Authors: Pierre Nabeth, Mahmoud Hassan, Keyrellous Adib, Abdinasir Abubakar, Richard Brennan
+- Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
+: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
+: *International Journal of Health and Policy Management* (June 2021)
+: [https://doi.org/10.34172/ijhpm.2021.48](https://doi.org/10.34172/ijhpm.2021.48) -->
 
-Potential health and economic impacts of dexamethasone treatment for patients with COVID-19
 
-Nature Communications. 10 February 2021
-Authors: Ricardo Águas, Adam Mahdi, Rima Shretta, Peter Horby, Martin Landray, Lisa White , The CoMo Consortium
 
-Modelling the COVID-19 Pandemic in Context: An International Participatory Approach
-
-BMJ Global Health
-Vol 5, Issue 12. December 2020.
-Authors: Ricardo Aguas, Lisa White, Nathaniel Hupert, Rima Shretta, Wirichada Pan-Ngum, Olivier Celhay, Ainura Moldokmatova, Fatima Arifi, Ali Mirzazadeh, Hamid Sharifi, Keyrellous Adib, Mohammad Nadir Sahak, Caroline Franco, Renato Coutinho, CoMo Consortium
-
-Can Existing Unrelated Vaccines Boost a COVID-19 Vaccine Prime?
-
-February 2021
-Authors: Nathaniel Hupert, Daniela Marín-Hernandez, Douglas F. Nixon
-
-Anticipated Reduction in COVID-19 Mortality due to Population-wide BCG vaccination: Evidence from Germany
-
-February 2021
-Authors: Daniela Marin-Hernandez, Douglas F. Nixon, Nathaniel Hupert
-
-Evaluating the Impact of Intervention Strategies on the First Wave and Predicting the Second Wave of COVID-19 in Thailand: A Mathematical Modelling Study
-
-January 2021
-Authors: Wiriya Mahikul, Palang Chotsiri, Kritchavat Ploddi, Wirichada Pan-ngum
-
-Perspectives on public health interventions in the management of the COVID-19 pandemic in Thailand
-
-December 2020
-Authors: Wirichada Pan-ngum, Tassawan Poomchaichote, Pimnara Peerawaranun, Natinee Kulpijit, Anne Osterrieder, Naomi Waithira, Mavuto Mukaka, Bhensri Naemiratch, Rita Chanviriyavuth, Supa-at Asarath, Supanat Ruangkajorn, Noppadon Kannika, Phaik Yeong Cheah
-
-The Immunologists’ Guide to Pandemic Preparedness
-
-Authors: Daniela Marín-Hernández, Nathaniel Hupert, Douglas F Nixon
-
-Comparing the Potential Effectiveness of Interventions against Coronavirus 2019 Outbreak in the Lao PDR: A Mathematical Modelling Approach
-
-Lao Medical Journal 2020, 11(11):3-7
-Authors: Phetsavanh Chanthavilay, Mick Soukavong, Yun Nandar Aung, Sai Thein Than Tun, Lisa J. White, Mayfong Mayxay
+<table class="table table-hover table-striped">
+  <!-- <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead> -->
+  <tbody>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study**<br>
+Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi<br>
+*International Journal of Health and Policy Management* (June 2021)<br>
+<https://doi.org/10.34172/ijhpm.2021.48>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**New COVID-19 Resurgence in the WHO Eastern Mediterranean Region**<br>
+Pierre Nabeth, Mahmoud Hassan, Keyrellous Adib, Abdinasir Abubakar, Richard Brennan<br>
+*The Lancet* (April 2021)<br>
+<https://doi.org/10.1016/S0140-6736(21)00679-6>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Potential health and economic impacts of dexamethasone treatment for patients with COVID-19**<br>
+Ricardo Águas, Adam Mahdi, Rima Shretta, Peter Horby, Martin Landray, Lisa White , The CoMo Consortium<br>
+*Nature Communications* (February 2021)<br>
+<https://doi.org/10.1038/s41467-021-21134-2>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Can Existing Unrelated Vaccines Boost a COVID-19 Vaccine Prime?**<br>
+Nathaniel Hupert, Daniela Marín-Hernandez, Douglas F. Nixon<br>
+*eClinicalMedicine Commentary* (February 2021)<br>
+<https://doi.org/10.1016/j.eclinm.2021.100758>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Anticipated Reduction in COVID-19 Mortality due to Population-wide BCG vaccination: Evidence from Germany**<br>
+Daniela Marin-Hernandez, Douglas F. Nixon, Nathaniel Hupert<br>
+*Human Vaccines & Immunotherapeutics, Letter* (February 2021)<br>
+<https://doi.org/10.1080/21645515.2021.1872344>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Evaluating the Impact of Intervention Strategies on the First Wave and Predicting the Second Wave of COVID-19 in Thailand: A Mathematical Modelling Study**<br>
+Wiriya Mahikul, Palang Chotsiri, Kritchavat Ploddi, Wirichada Pan-ngum<br>
+*Biology* (January 2021)<br>
+<https://doi.org/10.3390/biology10020080>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Perspectives on public health interventions in the management of the COVID-19 pandemic in Thailand**<br>
+Wirichada Pan-ngum, Tassawan Poomchaichote, Pimnara Peerawaranun, Natinee Kulpijit, Anne Osterrieder, Naomi Waithira, Mavuto Mukaka, Bhensri Naemiratch, Rita Chanviriyavuth, Supa-at Asarath, Supanat Ruangkajorn, Noppadon Kannika, Phaik Yeong Cheah<br>
+*Wellcome Open Research* (October 2020)<br>
+<https://doi.org/10.12688/wellcomeopenres.16293.1>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**The Immunologists’ Guide to Pandemic Preparedness**<br>
+Daniela Marín-Hernández, Nathaniel Hupert, Douglas F Nixon<br>
+*Trends in Immunology* (December 2020)<br>
+<https://doi.org/10.1016/j.it.2020.12.0036>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Modelling the COVID-19 Pandemic in Context: An International Participatory Approach**<br>
+Ricardo Águas, Lisa White, Nathaniel Hupert, Rima Shretta, Wirichada Pan-Ngum, Olivier Celhay, Ainura Moldokmatova, Fatima Arifi, Ali Mirzazadeh, Hamid Sharifi, Keyrellous Adib, Mohammad Nadir Sahak, Caroline Franco, Renato Coutinho, CoMo Consortium<br>
+*BMJ Global Health* (December 2020)<br>
+<https://doi.org/10.1136/bmjgh-2020-003126>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Comparing the Potential Effectiveness of Interventions against Coronavirus 2019 Outbreak in the Lao PDR: A Mathematical Modelling Approach**<br>
+Phetsavanh Chanthavilay, Mick Soukavong, Yun Nandar Aung, Sai Thein Than Tun, Lisa J. White, Mayfong Mayxay<br>
+*Lao Medical Journal* (2020, 11(11):3-7)<br>
+<https://pesquisa.bvsalud.org/portal/resource/pt/wpr-829289?lang=en>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Policy Briefs
 
+<table class="table table-hover table-striped">
+  <tbody>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Modelling the Potential Impact of Various Interventions on the COVID-19 Epidemic in the Kyrgyz Republic**<br>
+A. Moldokmatova, A. Dooronbekova, Ch. Zhumalieva, A. Estebesova, A. Mukambetov, A. Kubatova, Sh. Ibragimov, T.Abdyldaev, P. Ariana, R. Aguas, R. Shretta, L. White <br>
+*(Policy Notes)* (April 2020)<br>
+<https://www.medrxiv.org/content/medrxiv/early/2020/12/11/2020.12.10.20247247/DC2/embed/media-2.pdf?download=true>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Modelling the potential impact of various interventions on the COVID-19 epidemic in the Autonomous City of Buenos Aires, Argentina**<br>
+N. Feune de Colombi; M. Merello; M. Lasa; S. Chen; A. Moldomatova; Luzia Freitas; P. Ariana; L.
+White <br>
+*(Policy Brief)* (October 2020)<br>
+<https://s34886.pcdn.co/wp-content/uploads/2021/02/Argentina-Report-Final-policy-brief.pdf>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Articles
 
+<table class="table table-hover table-striped">
+  <tbody>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Covid is not going away, so will school remain closed?**<br>
+Syed Abdul Hamid<br>
+*Prothomalo English* (March 2021)<br>
+<https://en.prothomalo.com/opinion/op-ed/covid-is-not-going-away-so-will-school-remain-closed>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Vaccinating the World against COVID-19: Getting the Delivery Right is the Greatest Challenge**<br>
+Rima Shretta, Nathaniel Hupert, Patick Osewe, Lisa J White<br>
+*BMJ Global Health (Editorial)* (March 2021)<br>
+<https://gh.bmj.com/content/6/3/e005273>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Operations Research Advice for Covid-19 Vaccination Planners: Think Bigger, Move Faster.**<br>
+Nathaniel Hupert, Michael G. Klein, and John A. (“Jack”) Muckstadt<br>
+*STAT News* (March 2021)<br>
+<https://www.statnews.com/2021/03/21/operations-research-vaccination-use-bigger-sites-give-available-dose-every-day/>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**The economic impact of COVID-19**<br>
+Rima Shretta<br>
+*Coronavirus Research (2020), Our Research, University of Oxford* (April 2020)<br>
+<https://www.research.ox.ac.uk/article/2020-04-07-the-economic-impact-of-covid-19>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Blog Posts
+
+<table class="table table-hover table-striped">
+  <tbody>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Behind the paper: “Potential health and economic impacts of dexamethasone treatment for patients with COVID-19”**<br>
+Rima Shretta<br>
+*Behind the Paper, Springer Nature Research Communities* (February 2021)<br>
+<https://communities.springernature.com/posts/behind-the-paper-potential-health-and-economic-impacts-of-dexamethasone-treatment-for-patients-with-covid-19>
+      </td>
+    </tr>  
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**The COVID-19 Vaccine: Do We Know Enough to End the Pandemic?**<br>
+Rima Shretta, Kalipso Chalkidou, Ricardo Águas, Hiral Anil Shah, Francis Ruiz and Lisa J. White<br>
+*CGD Notes, Center for Global Development* (December 2020)<br>
+<https://www.cgdev.org/publication/covid-19-vaccine-do-we-know-enough-end-pandemic>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**The COVID-19 Multi-model Comparison Collaboration Releases Its First Two Outputs**<br>
+ Kalipso Chalkidou, Marelize Gorgens, Raymond Hutubessy, Yot Teerawattananon, Y-Ling Chi, Adrian Gheorghe and David Wilson<br>
+*CGD Notes, Center for Global Development* (August 2020)<br>
+<https://www.cgdev.org/blog/covid-19-multi-model-comparison-collaboration-releases-its-first-two-outputs>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Safeguarding the malaria endgame in the midst of the COVID-19 pandemic**<br>
+Rima Shretta<br>
+*Centre for Tropical Medicine and Global Health* (April 2020)<br>
+<https://www.tropicalmedicine.ox.ac.uk/news/safeguarding-the-malaria-endgame-in-the-midst-of-the-covid-19-pandemic>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+:::
+
+:::
