@@ -2,4 +2,12 @@
 title: "Models"
 ---
 
-## Models...
+## Covid-19 model and online app
+
+In response to the COVID-19 pandemic, a consortium of researchers (CoMo) developed an age-structured, compartmental SEIRS (susceptible-exposed-infectious-recovered-susceptible) model.
+- The aim of this model is to estimate the trajectory of COVID-19 based on different scenarios, and assess the potential impact of the various behavioural change strategies as well as treatment and vaccines when they become available.
+- A user-friendly interface enables widespread use, while dashboards and visualisation tools allow policymakers to see changes in real time.
+
+The model framework was developed by researchers from the University of Oxford and Cornell. The model continues to evolve based on ideas from all members of the Consortium and implemented by the CoMo technical team. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y5VLQpGIlEI?si=5b6Mmc_tlvSrW7fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
