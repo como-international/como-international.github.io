@@ -9,6 +9,9 @@ website:
   page-footer:
     center: Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
     right: "&copy; 2020-2024 &middot; CoMo International"
+  
+  twitter-card: 
+    site: "@ComoConsortium"
 
   navbar:
     title: false
@@ -35,8 +38,12 @@ website:
         menu:
         - about.qmd
         - team.qmd
-        - participating_countries.qmd
+        # - participating_countries.qmd
         - contact.qmd
+        - icon: twitter-x
+          href: https://twitter.com/ComoConsortium
+        - icon: github
+          href: https://github.com/como-international
 
 format:
   html:
