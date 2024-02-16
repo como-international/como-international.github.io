@@ -39,7 +39,7 @@ format:
       <td>
 **Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study**<br>
 Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi<br>
-*International Journal of Health and Policy Management* (June 2021)<br>
+*International Journal of Health and Policy Management* (August 2022)<br>
 <https://doi.org/10.34172/ijhpm.2021.48>
       </td>
     </tr>
@@ -48,7 +48,7 @@ Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar
       <td>
 **New COVID-19 Resurgence in the WHO Eastern Mediterranean Region**<br>
 Pierre Nabeth, Mahmoud Hassan, Keyrellous Adib, Abdinasir Abubakar, Richard Brennan<br>
-*The Lancet* (April 2021)<br>
+*The Lancet* (March 2021)<br>
 <https://doi.org/10.1016/S0140-6736(21)00679-6>
       </td>
     </tr>
