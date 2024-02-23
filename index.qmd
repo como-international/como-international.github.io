@@ -1,14 +1,20 @@
 ---
 pagetitle: "The CoMo Consortium"
-page-layout: custom
+format:
+  html:
+    toc: false
+# page-layout: custom
 # section-divs: false
-toc: false
+# toc: false
 css: styles/index.css
 execute: 
   echo: false
 ---
 
-::: {.content-block}
+::: {#hero-banner .column-screen}
+::: {.grid .column-page}
+
+::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
 
 > The International **Co**nsortium of **Mo**dellers was created by researchers at the University of Oxford together with academic colleagues at Cornell University and is partnering with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia, and South and North America.
 
@@ -16,9 +22,26 @@ execute:
 
 :::
 
-::: {.column-screen .alt-background}
+::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
 
-::: {.column-body}
+**Research highlights:**
+
+```{r}
+
+#| warning: false
+source("inc/carousel/carousel.R")
+carousel("gallery-carousel", 5000, 
+         yaml.load_file("inc/carousel/carousel.yml"))
+```
+
+:::
+
+:::
+
+:::
+
+
+::: {.column-screen .alt-background}
 
 ::: {.content-block}
 
@@ -28,23 +51,65 @@ execute:
 
 :::
 
-:::
 
-::: {.content-block}
+```{=html}
+<style>
 
-## Why policymakers need the CoMo model
+#hero-banner {
+  padding-top: 35px;
+  background-color: rgb(237,243,249);
+}
 
-COVID-19 is continuing to spread across the world at a rapid rate, with at least 185 countries affected and fears of further waves of infection.
+#quarto-content main { 
+  margin-top: 0;
+  padding-top: 0;
+}
 
-The pandemic has presented myriad challenges for health care systems around the world, including pressures on health care staff, general hospital beds, intensive care capacity and specialised equipment. In addition to the health effects of the disease, lockdown measures to contain the disease have placed a significant economic burden on countries and communities.
+html {
+  scroll-behavior: smooth;
+}
 
-Policymakers must balance curtailing the negative health effects of the pandemic against minimising the economic impact on societies, calibrating these decisions for the epidemiological, social, cultural and infrastructure context of an individual country. There are few options for treatment for Covid-19, so countries that choose to try to interrupt its spread must rely heavily on non-pharmaceutical interventions (NPIs); these NPIs fall into various categories of behaviour change, including self-isolation for symptomatic individuals, increased hand hygiene, and physical distancing in social settings.
+.headline {
+  font-size: 1.25em;
+  font-weight: 300;
+  padding-bottom: 1em;
+}
 
-## How we work
+.headline p {
+  margin: 0;
+  padding-bottom: 0.2rem;
+}
 
-The CoMo Consortium has developed an age-structured, compartmental SEIRS (susceptible-exposed-infectious-recovered-susceptible) model to estimate the trajectory of COVID-19 based on different scenarios and to assess the potential impact of the various NPIs, as well as treatments and vaccines, when they become available.
+.headline a {
+  text-decoration: none;
+}
 
-A user-friendly, web-based interface enables training on and use of the model by member modelling groups, while dashboards and visualisation tools allow policymakers to see the predicted impacts of different NPIs in real time. The CoMo Consortium comprises several working groups, with each group playing a specific role, as outlined here.
+.headline ul li {
+  margin-bottom: 0.3em;
+}
 
-:::
+.carousel.card {
+  padding-top: 2em;
+}
+
+.carousel img {
+  width: 95%;
+  /* padding-bottom: 20px; */
+  margin-bottom: 140px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  margin-bottom: 110px;
+}
+
+.carousel-caption {
+  width: 75%;
+  padding-top: 2em;
+}
+
+.touch {
+  
+}
+</style>
+```
 
