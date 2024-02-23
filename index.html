@@ -67,15 +67,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
-<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
-<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
-<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
-<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
-<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
-<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
-<script src="site_libs/leaflet-binding-2.2.1/leaflet.js"></script>
 
 
 <link rel="stylesheet" href="styles/index.css">
@@ -165,19 +156,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
+    
 <!-- main -->
+<main class="content page-columns page-full" id="quarto-document-content">
 
 
 
 
-<div class="content-block">
+<div id="hero-banner" class="column-screen page-columns page-full">
+<div class="grid column-page">
+<div class="headline g-col-lg-6 g-col-12 g-col-md-12">
 <blockquote class="blockquote">
 <p>The International <strong>Co</strong>nsortium of <strong>Mo</strong>dellers was created by researchers at the University of Oxford together with academic colleagues at Cornell University and is partnering with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia, and South and North America.</p>
 </blockquote>
@@ -185,61 +180,148 @@ ul.task-list li input[type="checkbox"] {
 <p>CoMo uses a participatory approach to provide decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context.</p>
 </blockquote>
 </div>
+<div class="g-col-lg-6 g-col-12 g-col-md-12">
+<p><strong>Research highlights:</strong></p>
 <div class="cell">
-<div class="cell-output-display column-screen">
-<div class="leaflet html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-fe45cd5512174df84e6a" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-fe45cd5512174df84e6a">{"x":{"options":{"minZoom":2,"maxZoom":3,"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}},"zoomControl":false},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addCircleMarkers","args":[[26.820553,26.3351,12.862807,5.152149,33.886917,31.791702,11.825138,23.885942,15.552727,21.512583,33.223191,33.854721,30.585164,31.046051,29.31166,30.375321,33.93911,32.427908,25.930414,25.354826,9.081999,8.460554999999999,14.497401,51.919438,9.145,-13.254308,-14.235004,-1.831239,21.913965,4.210484,4.535277,23.69781,-16.578193,39.399872,12.879721,19.85627,15.870032,-18.665695,7.369722,-38.416097,43.299428,36.778261,34.802075,41.20438,-0.7892749999999999],[30.802498,17.228331,30.217636,46.199616,9.537499,-7.09262,42.590275,45.079162,48.516388,55.923255,43.679291,35.862285,36.238414,34.851612,47.481766,69.345116,67.709953,53.688046,50.637772,51.183884,8.675276999999999,-11.779889,-14.452362,19.145136,40.489673,34.301525,-51.92528,-78.18340600000001,95.95622299999999,101.975766,114.727669,120.960515,179.414413,-8.224454,121.774017,102.495496,100.992541,35.529562,12.354722,-63.616672,-74.217933,-119.417932,38.996815,74.766098,113.921327],6,null,["WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","WHO EMR","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 1","Stage 2","Stage 2","Stage 3","Stage 3","Stage 3","Stage 3","Stage 3","Stage 3","Stage 3","Stage 3","Stage 4","Stage 4"],{"interactive":true,"className":"","stroke":false,"color":["#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#38A3A5","#38A3A5","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#80ED99","#80ED99"],"weight":5,"opacity":0.5,"fill":true,"fillColor":["#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#AEC3B0","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#22577A","#38A3A5","#38A3A5","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#57CC99","#80ED99","#80ED99"],"fillOpacity":0.8},null,null,["Egypt","Libya","Sudan","Somalia","Tunisia","Morocco","Djibouti","Saudi Arabia","Yemen","Oman","Iraq","Lebanon","Jordan","Israel","Kuwait","Pakistan","Afghanistan","Iran","Bahrain","Qatar","Nigeria","Sierra Leone","Senegal","Poland","Ethiopia","Malawi","Brazil","Ecuador","Myanmar","Malaysia","Brunei","Taiwan","Fiji","Portugal","Philippines","Laos","Thailand","Mozambique","Cameroon","Argentina","New York","California","Syria","Kyrgyzstan","Indonesia"],null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]},{"method":"addLayersControl","args":[[],["WHO EMR","Stage 1","Stage 2","Stage 3","Stage 4"],{"collapsed":false,"autoZIndex":true,"position":"topright"}]}],"limits":{"lat":[-38.416097,51.919438],"lng":[-119.417932,179.414413]}},"evals":[],"jsHooks":[]}</script>
+<div class="cell-output-display">
+<div id="gallery-carousel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+<div class="carousel-indicators">
+<button type="button" data-bs-target="#gallery-carousel" data-bs-slide-to="0" aria-label="Slide 1" class="active" aria-current="true"></button>
+<button type="button" data-bs-target="#gallery-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+<button type="button" data-bs-target="#gallery-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+</div>
+<div class="carousel-inner">
+<div class="carousel-item active" data-bs-interval="5000">
+<a href="https://doi.org/10.1136/bmjgh-2020-003126">
+<img src="img/ind_carousel/Slide1.png" class="d-block  mx-auto border">
+</a>
+<div class="carousel-caption d-none d-md-block">
+<p class="fw-light">Modelling the COVID-19 pandemic in context: an international participatory approach - BMJ Global Health</p>
+</div>
+</div>
+<div class="carousel-item" data-bs-interval="5000">
+<a href="https://doi.org/10.1038/s41467-021-21134-2">
+<img src="img/ind_carousel/Slide2.png" class="d-block  mx-auto border">
+</a>
+<div class="carousel-caption d-none d-md-block">
+<p class="fw-light">Potential health and economic impacts of dexamethasone treatment for patients with COVID-19 - Nature Communications</p>
+</div>
+</div>
+<div class="carousel-item" data-bs-interval="5000">
+<a href="https://doi.org/10.1073/pnas.2025448119">
+<img src="img/ind_carousel/Slide3.png" class="d-block  mx-auto border">
+</a>
+<div class="carousel-caption d-none d-md-block">
+<p class="fw-light">Heterologous vaccination interventions to reduce pandemic morbidity and mortality: Modeling the US winter 2020 COVID-19 wave - PNAS</p>
+</div>
+</div>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#gallery-carousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Prevoius</span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#gallery-carousel" data-bs-slide="next">
+<span class="carousel-control-next-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Next</span>
+</button>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div class="column-screen alt-background">
-<div class="column-body">
 <div class="content-block">
 <div class="grid">
 <section id="policy-support" class="level6 g-col-4">
-<h6 data-anchor-id="policy-support"><strong>POLICY SUPPORT</strong></h6>
+<h6 class="anchored" data-anchor-id="policy-support"><strong>POLICY SUPPORT</strong></h6>
 <p>Facilitating a direct link between the experts involved in developing the models and interpreting their outputs, the local in-country experts, and the policymakers in each country.</p>
 </section>
 <section id="model-development" class="level6 g-col-4">
-<h6 data-anchor-id="model-development"><strong>MODEL DEVELOPMENT</strong></h6>
+<h6 class="anchored" data-anchor-id="model-development"><strong>MODEL DEVELOPMENT</strong></h6>
 <p>Writing, coding, debugging and updating the primary model structure.</p>
 </section>
 <section id="interface-development" class="level6 g-col-4">
-<h6 data-anchor-id="interface-development"><strong>INTERFACE DEVELOPMENT</strong></h6>
+<h6 class="anchored" data-anchor-id="interface-development"><strong>INTERFACE DEVELOPMENT</strong></h6>
 <p>Creation of a web-based interface that enables non-modellers to run the models, based on their local parameters.</p>
 </section>
 <section id="economic-modelling" class="level6 g-col-4">
-<h6 data-anchor-id="economic-modelling"><strong>ECONOMIC MODELLING</strong></h6>
+<h6 class="anchored" data-anchor-id="economic-modelling"><strong>ECONOMIC MODELLING</strong></h6>
 <p>Conducting modelling to assess the economic costs and impacts arising from an intervention or a suite of interventions.</p>
 </section>
 <section id="evidence-synthesis" class="level6 g-col-4">
-<h6 data-anchor-id="evidence-synthesis"><strong>EVIDENCE SYNTHESIS</strong></h6>
+<h6 class="anchored" data-anchor-id="evidence-synthesis"><strong>EVIDENCE SYNTHESIS</strong></h6>
 <p>Combining scientific evidence relating to the Covid-19 pandemic with model projections, economics and financing to create evidence-based policy briefs.</p>
 </section>
 <section id="outreach-and-communications" class="level6 g-col-4">
-<h6 data-anchor-id="outreach-and-communications"><strong>OUTREACH AND COMMUNICATIONS</strong></h6>
+<h6 class="anchored" data-anchor-id="outreach-and-communications"><strong>OUTREACH AND COMMUNICATIONS</strong></h6>
 <p>Engaging in-country experts and policymakers who are seeking additional modelling support to deal with their specific Covid-19 situation.</p>
 </section>
 </div>
 </div>
 </div>
-</div>
-<div class="content-block">
-<section id="why-policymakers-need-the-como-model" class="level2">
-<h2 data-anchor-id="why-policymakers-need-the-como-model">Why policymakers need the CoMo model</h2>
-<p>COVID-19 is continuing to spread across the world at a rapid rate, with at least 185 countries affected and fears of further waves of infection.</p>
-<p>The pandemic has presented myriad challenges for health care systems around the world, including pressures on health care staff, general hospital beds, intensive care capacity and specialised equipment. In addition to the health effects of the disease, lockdown measures to contain the disease have placed a significant economic burden on countries and communities.</p>
-<p>Policymakers must balance curtailing the negative health effects of the pandemic against minimising the economic impact on societies, calibrating these decisions for the epidemiological, social, cultural and infrastructure context of an individual country. There are few options for treatment for Covid-19, so countries that choose to try to interrupt its spread must rely heavily on non-pharmaceutical interventions (NPIs); these NPIs fall into various categories of behaviour change, including self-isolation for symptomatic individuals, increased hand hygiene, and physical distancing in social settings.</p>
-</section>
-<section id="how-we-work" class="level2">
-<h2 data-anchor-id="how-we-work">How we work</h2>
-<p>The CoMo Consortium has developed an age-structured, compartmental SEIRS (susceptible-exposed-infectious-recovered-susceptible) model to estimate the trajectory of COVID-19 based on different scenarios and to assess the potential impact of the various NPIs, as well as treatments and vaccines, when they become available.</p>
-<p>A user-friendly, web-based interface enables training on and use of the model by member modelling groups, while dashboards and visualisation tools allow policymakers to see the predicted impacts of different NPIs in real time. The CoMo Consortium comprises several working groups, with each group playing a specific role, as outlined here.</p>
-</section>
-</div>
+<style>
+
+#hero-banner {
+  padding-top: 35px;
+  background-color: rgb(237,243,249);
+}
+
+#quarto-content main { 
+  margin-top: 0;
+  padding-top: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.headline {
+  font-size: 1.25em;
+  font-weight: 300;
+  padding-bottom: 1em;
+}
+
+.headline p {
+  margin: 0;
+  padding-bottom: 0.2rem;
+}
+
+.headline a {
+  text-decoration: none;
+}
+
+.headline ul li {
+  margin-bottom: 0.3em;
+}
+
+.carousel.card {
+  padding-top: 2em;
+}
+
+.carousel img {
+  width: 95%;
+  /* padding-bottom: 20px; */
+  margin-bottom: 140px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  margin-bottom: 110px;
+}
+
+.carousel-caption {
+  width: 75%;
+  padding-top: 2em;
+}
+
+.touch {
+  
+}
+</style>
 
 
 
-
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
