@@ -1,7 +1,0 @@
----
-title: "Participating Countries"
-execute: 
-  echo: false
----
-
-{{< include inc_pc_map.qmd >}}
