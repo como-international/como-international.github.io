@@ -16,8 +16,6 @@ execute:
 
 :::
 
-{{< include inc_pc_map.qmd >}}
-
 ::: {.column-screen .alt-background}
 
 ::: {.column-body}
