@@ -22,7 +22,7 @@ execute:
 
 ::: {.content-block}
 
-{{< include index_features.qmd >}}
+{{< include inc_index_features.qmd >}}
 
 :::
 
