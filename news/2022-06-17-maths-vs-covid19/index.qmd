@@ -1,0 +1,30 @@
+---
+title: "Maths vs COVID-19 (Oxford Talks)"
+date: 2022-16-17
+categories:
+    - events
+---
+
+This event aims to introduce epidemiological mathematical modelling to the general public, with special focus on how models have been used to guide policy making during the COVID-19 pandemic.
+
+We would appreciate if you could register for the event in advance. It will allow us to confirm attendance numbers and facilities needed.
+
+The main part of the event will be three 15-minute talks given by:
+
+1. Professor Christl Donnelly CBE FMedSci FRS, Professor of Applied Statistics, Department of Statistics, University of Oxford and Professor of Statistical Epidemiology, MRC Centre for Global Infectious Disease Analysis, Imperial College London
+
+Professor Christl Donnelly is a statistician and epidemiologist studying the spread and control of infectious diseases, with a particular interest in outbreaks. Christl has studied Zika virus, Ebola, MERS, influenza, SARS, bovine TB, foot-and-mouth disease, rabies, cholera, dengue, BSE/vCJD, malaria and HIV/AIDS. She is a leading member of the WHO Ebola Response Team (2014-). She was also deputy chair of the Independent Scientific Group on Cattle TB (1998-2007) which designed, oversaw and analysed the Randomised Badger Culling Trial. In addition to epidemiology and disease control, she is interested in conservation and animal welfare. She is a Fellow of the Academy of Medical Sciences and an Honorary Fellow of the Zoological Society of London. In 2002, she won the Franco-British prize for scientific research from the Académie des Sciences in Paris.
+
+2. **Professor Lisa White**, Professor of Modelling and Epidemiology, Big Data Institute, University of Oxford.
+
+Professor Lisa White is a mathematical modeller with a focus on global health and policymaking. Her work combines within- and between-host infection models with multi-strain/species modelling to consider the characterisation, emergence and spread of antimicrobial drug resistance and its containment. Her modelling work is participatory, with models for malaria, COVID-19 and other diseases being developed in close collaboration with national control programs, international decision-makers, funders and donors.
+
+3. A group of DPhil students with diverse research experience in mathematical modelling for COVID-19 epidemiology.
+
+Throughout the talks, an artist will render a dynamic sketch of the unfolding talks, which will be presented at the end of the talks to the audience.
+
+After the main event, we will also offer free canapes and wine / soft drinks in the Maths Institute.
+
+This event is funded by RAMP Outreach Innovation Awards from the UKRI (grant number: EP/V053507/1), administered by the Newton Institute at the University of Cambridge
+
+[Event link](https://talks.ox.ac.uk/talks/id/653cd419-e16c-4c43-b52a-93fd3843a89e/)
