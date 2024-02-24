@@ -11,7 +11,7 @@ format:
 Strategic Modelling for Public Health Policy Training Programme
 
 :::
-::: {.training_right_background .g-col-lg-8 .d-md-none .d-lg-block}
+::: {.training_right_background .g-col-lg-8 .d-none .d-lg-block .d-xl-block}
 
 :::
 :::
