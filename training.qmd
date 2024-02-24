@@ -1,20 +1,23 @@
 ---
 pagetitle: "Training"
+format:
+  html:
+    toc: false
 ---
-
+::: {#training-banner .column-screen}
 ::: {.grid .column-page}
-
-::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
+::: {.headline .g-col-lg-4 .g-col-12 .g-col-md-12}
 
 Strategic Modelling for Public Health Policy Training Programme
 
 :::
-
-::: {.training_right_background .g-col-lg-6 .g-col-12 .g-col-md-12}
-
-:::
+::: {.training_right_background .g-col-lg-8 .d-md-none .d-lg-block}
 
 :::
+:::
+:::
+
+
 
 ::: {.grid .column-page}
 
@@ -35,15 +38,26 @@ We have developed a programme of training on policy-facing public health modelli
 
 ```{=html}
 <style>
+#training-banner {
+  padding-top: 0px;
+  /* background-color: rgb(237,243,249); */
+  background-color: #E0E0CE;
+}
+
+#quarto-content main { 
+  margin-top: 0;
+  padding-top: 0;
+}
 
 .headline {
-  font-size: 2.25em;
-  font-weight: 300;
-  padding-bottom: 5em;
+  font-size: 2.5em;
+  /* font-weight: 300; */
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .training_right_background {
-  background-image: url("img/msd_teaching_centre.jpg");
+  background-image: url("img/training/seminar_room_2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
