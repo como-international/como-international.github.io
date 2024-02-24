@@ -1,6 +1,6 @@
 ---
 title: "Maths vs COVID-19 (Oxford Talks)"
-date: 2022-16-17
+date: 2022-06-17
 categories:
     - events
 ---
