@@ -4,14 +4,20 @@ format:
   html:
     toc: false
 ---
+
 ::: {#training-banner .column-screen}
+
 ::: {.grid .column-page}
-::: {.headline .g-col-lg-4 .g-col-12 .g-col-md-12}
+::: {.headline .g-col-lg-5 .g-col-12 .g-col-md-12}
+
+::: {#training-logo-top}
+<!-- ![](img/training/biology_keyline.svg) -->
+:::
 
 Strategic Modelling for Public Health Policy Training Programme
 
 :::
-::: {.training_right_background .g-col-lg-8 .d-none .d-lg-block .d-xl-block}
+::: {.training_right_background .g-col-lg-7 .d-none .d-lg-block .d-xl-block}
 
 :::
 :::
@@ -23,35 +29,186 @@ Strategic Modelling for Public Health Policy Training Programme
 
 ::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
 
+## Why CoMo?
+
+::: {.text_justified}
+
 The COVID-19 pandemic has highlighted the importance of pandemic preparedness and demonstrated that academia can deliver highly transformative interventions. The International Modelling Consortium (CoMo) was created in March 2020 by researchers at the University of Oxford, together with academic colleagues at Cornell University, and partners with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia and South and North America. Using a participatory approach, CoMo provides decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context. With COVID-19 now endemic, CoMo continues to work with modellers and public health researchers on the challenges of a range of infectious diseases. To prepare for future pandemic challenges, CoMo members have highlighted the need for accessible training in health policy-facing modelling.
+
+We have developed a programme of training on policy-facing public health modelling for a global audience. The overarching purpose is to widen global access and build modelling capacity in in-country settings. The benefits of this include improving pandemic preparedness, particularly in low- and middle-income countries. During the COVID-19 pandemic, modelling expertise was concentrated in high-income countries and CoMo was the only international community that supported LMIC leadership in the field. Also, of key importance is that this programme provides equitable access which aligns with a larger inter-divisional initiative, Global Equitable Oxford (with support from the Vice Chancellor’s Office), which aims to improve inclusivity and access to Oxford University expertise and connect with world-class researchers across the globe.
+
+:::
+:::
+
+::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+
+## Who is the programme designed for?
+
+::: {.text_justified}
+
+Our course modules for 2024 are aimed at entry level modellers, those who are exploring a career in modelling, or those in related professions who wish to know more about the discipline.
+
+The courses are designed for those working in a range of sectors. For example, the public sector - medical professionals, data scientists, epidemiologists, health economists, medical statisticians; NGO staff; academic researchers; and those working in the private sector, the pharmaceutical and consulting industry.
+
+Future modules will offer intermediate and advanced skills for mid-career modellers or related professionals who wish to build on foundational training and/or extend their technical repertoire.
+We can also provide bespoke versions of this course for organisations. Please contact us <email address> if you would like to discuss this opportunity further. 
+
+:::
+:::
+
+:::
+
+
+::: {#training-banner .column-screen}
+::: {.column-page}
+
+## Next Course Runs
+
+### Dates
+
+::: {.callout-note}
+
+Exact dates, day and time of the week need to be included once firmed up
+
+:::
+
+- Introduction to R for modellers:  April – May 2024 
+- Mathematical modelling of infectious diseases: June – July 2024 
+- Modelling in Practice: August – September 2024 
+
+:::
+:::
+
+::: {.column-screen}
+::: {.column-page}
+
+## Who is involved?
+
+Our modules will be taught by the following experts:
+
+
+- Professor Ricardo Aguas [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
+
+- Dr Bo Gao [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
+
+- Professor Lisa White [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
+
+
+:::
+:::
+
+
+
+::: {#training-banner .column-screen}
+::: {.column-page}
+
+## Details
+
+::: {.grid}
+
+::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+
+### Duration
+Each module will consist of 8 weeks of teaching.
+There will be 2 x 2-hour sessions per week. Each 2-hour session will include a 15-minute break.
+
+
+### Price (per module)
+
+- £3,200 Private Sector
+- £2,500 Public Sector
+- £500 for those based in lower-income countries
+
+Fee waivers for those who meet pre-determined criteria. There will be an application process for fee waivers on the programme for participants who do not have the available funds.
+
+Please read our pricing policy [link (TBA)]()
+
+### Location
+
+Online
+
+### Apply
+
+Please apply using our online form [link from University Online Stores (TBA)]()
+
+For further information contact [email (TBA)]().
+
+We also provide bespoke versions of this course for organisations. Please contact us if you would like to discuss this opportunity further.
 
 :::
 
 ::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
 
-We have developed a programme of training on policy-facing public health modelling for a global audience. The overarching purpose is to widen global access and build modelling capacity in in-country settings. The benefits of this include improving pandemic preparedness, particularly in low- and middle-income countries. During the COVID-19 pandemic, modelling expertise was concentrated in high-income countries and CoMo was the only international community that supported LMIC leadership in the field. Also, of key importance is that this programme provides equitable access which aligns with a larger inter-divisional initiative, Global Equitable Oxford (with support from the Vice Chancellor’s Office), which aims to improve inclusivity and access to Oxford University expertise and connect with world-class researchers across the globe. 
+### Modules
+
+- Introduction to R for modellers
+- Mathematical modelling of infectious diseases
+- Modelling in practice
 
 :::
 
+:::
+
+:::
+:::
+
+
+
+::: {#training-banner .column-screen}
+::: {.column-page}
+
+::: {#training-logo-end}
+<!-- ![](img/training/biology_keyline.svg) -->
+:::
+
+:::
 :::
 
 
 ```{=html}
 <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+#training-logo-top {
+  max-width: 100%;
+  background-image: url("img/training/biology_keyline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 2em;
+  margin-bottom: 0.5em;
+}
+
+#training-logo-end {
+  max-width: 100%;
+  background-image: url("img/training/biology_keyline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 8em;
+  margin-bottom: 2em;
+}
+
 #training-banner {
   padding-top: 0px;
   /* background-color: rgb(237,243,249); */
-  background-color: #E0E0CE;
+  /* background-color: #E0E0CE; */
+  background-color: #f3f1ee;
 }
 
 #quarto-content main { 
   margin-top: 0;
   padding-top: 0;
 }
+.text_justified {
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: 'PT Serif', 'Georgia', 'Times New Roman', serif;
+}
 
 .headline {
   /* font-family: 'Economica', sans-serif; */
-  font-family: 'Tahoma', sans-serif;
+  /* font-family: 'Tahoma', sans-serif; */
+  font-family: 'Bebas Neue', sans-serif;
   font-size: 2.5em;
   /* font-weight: 300; */
   padding-top: 0.5em;
