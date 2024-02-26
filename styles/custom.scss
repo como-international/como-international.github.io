@@ -1,4 +1,10 @@
+/*-- scss:defaults --*/
+
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic&amp;subset=latin,latin-ext");
+
 /*-- scss:rules --*/
+
+
 
 /*-- navbar --*/
 
@@ -11,6 +17,7 @@
     // // font-family: 'Arsenal', sans-serif;
     // //font-family: 'Bebas Neue', sans-serif;
     //  font-family: 'Economica', sans-serif;
+    font-family: 'PT Sans', 'Helvetica Neue', 'Arial', 'Helvetica', sans-serif;
      text-transform: uppercase;
     //  background-image: url("img/Brand_slide.png");
     //  background-size: 1100px;
