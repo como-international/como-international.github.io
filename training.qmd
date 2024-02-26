@@ -12,35 +12,49 @@ format:
 
 ::: {#training-logo-top}
 <!-- ![](img/training/biology_keyline.svg) -->
+
 :::
 
 Strategic Modelling for Public Health Policy Training Programme
 
 :::
+
 ::: {.training_right_background .g-col-lg-7 .d-none .d-lg-block .d-xl-block}
 
 :::
+
 :::
+
 :::
 
 
+::: {.column-screen}
 
-::: {.grid .column-page}
-
-::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+::: {.column-page}
 
 ## Why CoMo?
 
-::: {.text_justified}
+::: {.grid}
 
+::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+
+::: {.text_justified}
 The COVID-19 pandemic has highlighted the importance of pandemic preparedness and demonstrated that academia can deliver highly transformative interventions. The International Modelling Consortium (CoMo) was created in March 2020 by researchers at the University of Oxford, together with academic colleagues at Cornell University, and partners with infectious disease modellers and other public health experts from more than 40 countries across Africa, Asia and South and North America. Using a participatory approach, CoMo provides decision-making support to policymakers, using evidence from epidemiological and economic models adapted to each country’s context. With COVID-19 now endemic, CoMo continues to work with modellers and public health researchers on the challenges of a range of infectious diseases. To prepare for future pandemic challenges, CoMo members have highlighted the need for accessible training in health policy-facing modelling.
 
+:::
+:::
+
+::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+
+::: {.text_justified}
 We have developed a programme of training on policy-facing public health modelling for a global audience. The overarching purpose is to widen global access and build modelling capacity in in-country settings. The benefits of this include improving pandemic preparedness, particularly in low- and middle-income countries. During the COVID-19 pandemic, modelling expertise was concentrated in high-income countries and CoMo was the only international community that supported LMIC leadership in the field. Also, of key importance is that this programme provides equitable access which aligns with a larger inter-divisional initiative, Global Equitable Oxford (with support from the Vice Chancellor’s Office), which aims to improve inclusivity and access to Oxford University expertise and connect with world-class researchers across the globe.
 
 :::
 :::
 
-::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
+:::
+
+<!-- ::: {.g-col-lg-12 .g-col-12 .g-col-md-12} -->
 
 ## Who is the programme designed for?
 
@@ -54,7 +68,9 @@ Future modules will offer intermediate and advanced skills for mid-career modell
 We can also provide bespoke versions of this course for organisations. Please contact us <email address> if you would like to discuss this opportunity further. 
 
 :::
+
 :::
+
 :::
 
 
