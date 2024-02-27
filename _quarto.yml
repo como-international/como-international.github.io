@@ -39,8 +39,8 @@ website:
       - news.qmd
       - text: "About"
         menu:
-        - about.qmd
-        - team.qmd
+        # - about.qmd
+        # - team.qmd
         # - participating_countries.qmd
         - contact.qmd
         - icon: twitter-x
