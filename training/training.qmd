@@ -64,15 +64,18 @@ We can also provide bespoke versions of this course for organisations. Please co
 
 ### Dates
 
+
+| Courses  | Dates |
+|:--------|------:|
+| Introduction to R for modellers | April – May 2024 |
+| Modelling Infectious Diseases in Context: Introduction | June – July 2024 |
+| Modelling Infectious Diseases in Context: Intermediate | August – September 2024 |
+
 ::: {.callout-note}
 
 Exact dates, day and time of the week need to be included once firmed up
 
 :::
-
-- Introduction to R for modellers:  April – May 2024 
-- Mathematical modelling of infectious diseases: June – July 2024 
-- Modelling in Practice: August – September 2024 
 
 :::
 :::
@@ -82,9 +85,9 @@ Exact dates, day and time of the week need to be included once firmed up
 ::: {.column-screen}
 ::: {.column-page}
 
-## Course Modules
+## Courses
 
-### INTRODUCTION TO R FOR MODELLERS
+### Introduction to R for modellers {#course-r}
 
 **Module lead: Dr Bo Gao** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
 
@@ -92,7 +95,7 @@ Exact dates, day and time of the week need to be included once firmed up
 This module gives introduction to the basic elements of the R programming language with emphasis on its application in the context of infectious disease modelling. The materials covered in this module underpins the technical aspect of the training programme. R is a popular programming language in the research community especially that of disease modelling. It is open source and freely available cross platforms. On top of the rich statistical computing package library it already has, R also enjoys the support of vibrant open-source community of researchers and developers who are constantly contributing to enrich the ecosystem around R. Packages such as ggplot and shiny give R users a unique advantage when it comes to communicating research outputs with a wider audience by making it incredibly easy to make graphical representations of data and publishing them online. During this module, we will take the students through key aspects of the R programming language starting from basic notations of the language to the introduction of popular data manipulation and visualisation packages.  The module concludes with advanced topics such as code profiling and optimisation. We will give examples of mathematical models during the module to give the students a hands-on experience in model building.
 :::
 
-### MATHEMATICAL MODELLING OF INFECTIOUS DISEASES
+### Modelling Infectious Diseases in Context: Introduction
 
 **Module lead: Professor Ricardo Aguas** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
 
@@ -102,7 +105,7 @@ This module provides a practical introduction to the mathematical modelling of i
 In this module, the students will be supported to develop a set of basic mathematical modelling skills though a mix of practical sessions interspersed with short theory sessions. They will be given a thorough introduction to the core concepts and techniques that will permeate sessions throughout the week and some elective modules. This foundation will be solidified through key working examples and put into practice in R.  Throughout the week we will guide the students through the process of building a model suited to address a research/policy question, developing and implementing the model in mathematical and code forms, and interpret the short- and long-term dynamics produced. Starting from simple compartmental models, students will be exposed to a repository of different model typologies that could be used as a template for any future modelling exercise.
 :::
 
-### MODELLING IN PRACTICE
+### Modelling Infectious Diseases in Context: Intermediate
 
 **Module Lead: Professor Lisa White** [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
 
@@ -172,8 +175,8 @@ We also provide bespoke versions of this course for organisations. Please contac
 ### Modules
 
 - Introduction to R for modellers
-- Mathematical modelling of infectious diseases
-- Modelling in practice
+- Modelling Infectious Diseases in Context: Introduction
+- Modelling Infectious Diseases in Context: Intermediate
 
 :::
 
