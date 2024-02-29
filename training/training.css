@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+#training-logo-top {
+  max-width: 100%;
+  background-image: url("img/biology_keyline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 2em;
+  margin-bottom: 0.5em;
+}
+
+#training-logo-end {
+  max-width: 100%;
+  background-image: url("img/biology_keyline.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 8em;
+  margin-bottom: 2em;
+}
+
+#training-banner {
+  padding-top: 0px;
+  /* background-color: rgb(237,243,249); */
+  /* background-color: #E0E0CE; */
+  background-color: #f3f1ee;
+}
+
+#quarto-content main { 
+  margin-top: 0;
+  padding-top: 0;
+}
+.text_justified {
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: 'PT Serif', 'Georgia', 'Times New Roman', serif;
+}
+
+.training-headline {
+  /* font-family: 'Economica', sans-serif; */
+  /* font-family: 'Tahoma', sans-serif; */
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 2.5em;
+  /* font-weight: 300; */
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+.training_right_background {
+  background-image: url("img/seminar_room_2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 10px;
+}

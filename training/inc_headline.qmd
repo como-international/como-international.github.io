@@ -1,0 +1,21 @@
+::: {#training-banner .column-screen}
+
+::: {.grid .column-page}
+::: {.training-headline .g-col-lg-5 .g-col-12 .g-col-md-12}
+
+::: {#training-logo-top}
+<!-- ![](img/training/biology_keyline.svg) -->
+
+:::
+
+Strategic Modelling for Public Health Policy Training Programme
+
+:::
+
+::: {.training_right_background .g-col-lg-7 .d-none .d-lg-block .d-xl-block}
+
+:::
+
+:::
+
+:::

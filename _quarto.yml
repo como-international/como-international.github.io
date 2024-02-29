@@ -28,14 +28,24 @@ website:
     foreground: light
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - text: "Research"
         menu:
         - publications.qmd
         - models.qmd
         # - research.qmd
-      - href: training.qmd
-        text: Training
+      - text: Training
+        href: training/training.qmd
+        # menu:
+        # - href: training/training.qmd
+        #   text: "Strategic Modelling for Public Health Policy Training Programme"
+        # - href: training/training-r.qmd
+        #   text: " - Introduction to R for Modellers"
+        # - href: training/training-midc-intro.qmd
+        #   text: " - Modelling Infectious Diseases in Context: Introduction"
+        # - href: training/training-midc-inter.qmd
+        #   text: " - Modelling Infectious Diseases in Context: Intermediate"
+        
       - news.qmd
       - text: "About"
         menu:

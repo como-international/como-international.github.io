@@ -1,0 +1,18 @@
+---
+pagetitle: "Training"
+format:
+  html:
+    toc: false
+css: training.css
+---
+
+{{< include inc_headline.qmd >}}
+
+::: {.column-screen}
+
+::: {.column-page}
+
+## Module - Introduction to R for Modellers
+
+:::
+:::
