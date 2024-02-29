@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://como-international.github.io/training.html</loc>
-    <lastmod>2024-02-26T21:34:59.971Z</lastmod>
+    <loc>https://como-international.github.io/training/training.html</loc>
+    <lastmod>2024-02-29T14:24:17.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://como-international.github.io/training/inc_headline.html</loc>
+    <lastmod>2024-02-29T11:33:37.773Z</lastmod>
   </url>
   <url>
     <loc>https://como-international.github.io/research.html</loc>
@@ -71,5 +75,9 @@
   <url>
     <loc>https://como-international.github.io/team.html</loc>
     <lastmod>2024-02-13T23:59:59.633Z</lastmod>
+  </url>
+  <url>
+    <loc>https://como-international.github.io/training/training-r.html</loc>
+    <lastmod>2024-02-29T12:02:34.108Z</lastmod>
   </url>
 </urlset>
