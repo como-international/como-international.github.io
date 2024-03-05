@@ -9,23 +9,6 @@ format:
 ## Journal Articles
 
 
-<!-- - Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
-: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
-: *International Journal of Health and Policy Management* (June 2021)
-: [https://doi.org/10.34172/ijhpm.2021.48](https://doi.org/10.34172/ijhpm.2021.48)
-
-- Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
-: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
-: *International Journal of Health and Policy Management* (June 2021)
-: [https://doi.org/10.34172/ijhpm.2021.48](https://doi.org/10.34172/ijhpm.2021.48)
-
-- Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study
-: Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi
-: *International Journal of Health and Policy Management* (June 2021)
-: [https://doi.org/10.34172/ijhpm.2021.48](https://doi.org/10.34172/ijhpm.2021.48) -->
-
-
-
 <table class="table table-hover table-striped">
   <!-- <thead>
     <tr>
@@ -41,6 +24,15 @@ format:
 Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi<br>
 *International Journal of Health and Policy Management* (August 2022)<br>
 <https://doi.org/10.34172/ijhpm.2021.48>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Potential global impacts of alternative dosing regimen and rollout options for the ChAdOx1 nCoV-19 vaccine**<br>
+Ricardo Aguas, Anouska Bharath, Lisa J. White, Bo Gao, Andrew J. Pollard, Merryn Voysey, Rima Shretta<br>
+*Nature Communications* (November 2021)<br>
+<https://doi.org/10.1038/s41467-021-26449-8>
       </td>
     </tr>
     <tr class="">
