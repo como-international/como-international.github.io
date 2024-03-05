@@ -67,9 +67,9 @@ We can also provide bespoke versions of this course for organisations. Please co
 
 | Courses  | Dates |
 |:--------|------:|
-| Introduction to R for modellers | April – May 2024 |
-| Modelling Infectious Diseases in Context: Introduction | June – July 2024 |
-| Modelling Infectious Diseases in Context: Intermediate | August – September 2024 |
+| Introduction to R for Modellers | April – May 2024 |
+| Infectious Disease Modelling in Context: Introduction | June – July 2024 |
+| Infectious Disease Modelling in Context: Intermediate | August – September 2024 |
 
 ::: {.callout-note}
 
@@ -99,7 +99,7 @@ This module gives introduction to the basic elements of the R programming langua
 :::
 </details>
 
-### Modelling Infectious Diseases in Context: Introduction
+### Infectious Disease Modelling in Context: Introduction
 
 **Module lead: Professor Ricardo Aguas** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
 
@@ -113,7 +113,7 @@ In this module, the students will be supported to develop a set of basic mathema
 :::
 </details>
 
-### Modelling Infectious Diseases in Context: Intermediate
+### Infectious Disease Modelling in Context: Intermediate
 
 **Module Lead: Professor Lisa White** [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
 
