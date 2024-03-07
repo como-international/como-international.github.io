@@ -46,7 +46,8 @@
 }
 
 .training_right_background {
-  background-image: url("img/seminar_room_2.jpg");
+  /* background-image: url("img/seminar_room_2.jpg"); */
+  background-image: url("img/training_header.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
