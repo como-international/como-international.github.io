@@ -29,8 +29,17 @@ Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar
     <tr class="">
       <th scope="row">#</th>
       <td>
+**Heterologous vaccination interventions to reduce pandemic morbidity and mortality: Modeling the US winter 2020 COVID-19 wave**<br>
+Nathaniel Hupert, Daniela Marín-Hernández, Bo Gao, Ricardo Águas, and Douglas F. Nixon<br>
+*Proceedings of the National Academy of Sciences* (December 2021)<br>
+<https://doi.org/10.1073/pnas.2025448119>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
 **Potential global impacts of alternative dosing regimen and rollout options for the ChAdOx1 nCoV-19 vaccine**<br>
-Ricardo Aguas, Anouska Bharath, Lisa J. White, Bo Gao, Andrew J. Pollard, Merryn Voysey, Rima Shretta<br>
+Ricardo Águas, Anouska Bharath, Lisa J. White, Bo Gao, Andrew J. Pollard, Merryn Voysey, Rima Shretta<br>
 *Nature Communications* (November 2021)<br>
 <https://doi.org/10.1038/s41467-021-26449-8>
       </td>
@@ -128,7 +137,7 @@ Phetsavanh Chanthavilay, Mick Soukavong, Yun Nandar Aung, Sai Thein Than Tun, Li
       <th scope="row">#</th>
       <td>
 **Modelling the Potential Impact of Various Interventions on the COVID-19 Epidemic in the Kyrgyz Republic**<br>
-A. Moldokmatova, A. Dooronbekova, Ch. Zhumalieva, A. Estebesova, A. Mukambetov, A. Kubatova, Sh. Ibragimov, T.Abdyldaev, P. Ariana, R. Aguas, R. Shretta, L. White <br>
+A. Moldokmatova, A. Dooronbekova, Ch. Zhumalieva, A. Estebesova, A. Mukambetov, A. Kubatova, Sh. Ibragimov, T.Abdyldaev, P. Ariana, R. Águas, R. Shretta, L. White <br>
 *(Policy Notes)* (April 2020)<br>
 <https://www.medrxiv.org/content/medrxiv/early/2020/12/11/2020.12.10.20247247/DC2/embed/media-2.pdf?download=true>
       </td>
