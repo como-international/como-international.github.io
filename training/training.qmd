@@ -89,7 +89,7 @@ Exact dates, day and time of the week need to be included once firmed up
 
 ### Introduction to R for modellers {#course-r}
 
-**Module lead: Dr Bo Gao** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
+Lead instructor: **Dr Bo Gao** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
 
 <details>
   <summary>Details</summary>
@@ -101,7 +101,7 @@ This module gives introduction to the basic elements of the R programming langua
 
 ### Infectious Disease Modelling in Context: Introduction
 
-**Module lead: Professor Ricardo Aguas** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
+Lead instructor: **Professor Ricardo Aguas** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
 
 <details>
   <summary>Details</summary>
@@ -115,7 +115,7 @@ In this module, the students will be supported to develop a set of basic mathema
 
 ### Infectious Disease Modelling in Context: Intermediate
 
-**Module Lead: Professor Lisa White** [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
+Lead instructor: **Professor Lisa White** [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
 
 <details>
   <summary>Details</summary>
@@ -151,9 +151,7 @@ This module will provide students with the opportunity to create and develop the
 ::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
 
 ### Duration
-Each module will consist of 8 weeks of teaching.
-There will be 2 x 2-hour sessions per week. Each 2-hour session will include a 15-minute break.
-
+Each course will consist of 10 x 3-hour teaching sessions (30 hours in total) which is spread over 5 weeks. 
 
 ### Price (per module)
 
@@ -181,7 +179,7 @@ We also provide bespoke versions of this course for organisations. Please contac
 
 ::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
 
-### Modules
+### Courses
 
 - Introduction to R for modellers
 - Modelling Infectious Diseases in Context: Introduction
