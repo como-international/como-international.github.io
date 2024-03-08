@@ -124,12 +124,11 @@ This module will provide students with the opportunity to create and develop the
 :::
 </details>
 
-## Who is involved?
-
-Our modules will be taught by the following experts:
-
+## Faculty
 
 - Professor Ricardo Aguas [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
+
+- Professor Nathaniel Hupert [Bio](https://vivo.weill.cornell.edu/display/cwid-nah2005)
 
 - Dr Bo Gao [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
 
