@@ -52,7 +52,8 @@ website:
         # - about.qmd
         # - team.qmd
         # - participating_countries.qmd
-        - contact.qmd
+        - text: Contact
+          href: contact.qmd
         - icon: twitter-x
           href: https://twitter.com/ComoConsortium
         - icon: github
