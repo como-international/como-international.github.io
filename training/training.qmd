@@ -45,7 +45,7 @@ Our courses for 2024 are aimed at entry level modellers, those who are exploring
 The courses are designed for those working in a range of sectors. For example, the public sector - medical professionals, data scientists, epidemiologists, health economists, medical statisticians; NGO staff; academic researchers; and those working in the private sector, the pharmaceutical and consulting industry.
 
 Future courses will offer intermediate and advanced skills for mid-career modellers or related professionals who wish to build on foundational training and/or extend their technical repertoire.
-We can also provide bespoke versions of this course for organisations. Please contact us <email address> if you would like to discuss this opportunity further. 
+We can also provide bespoke versions of this course for organisations. Please [contact us](../contact.html) if you would like to discuss this opportunity further. 
 
 :::
 
@@ -89,51 +89,167 @@ Exact dates, day and time of the week will be provided in due course.
 
 ### Introduction to R for modellers {#course-r}
 
-Lead instructor: **Dr Bo Gao** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
+Tutor: **Bo Gao**
 
 <details>
   <summary>Details</summary>
 
 ::: {.text_justified}
-This module gives introduction to the basic elements of the R programming language with emphasis on its application in the context of infectious disease modelling. The materials covered in this module underpins the technical aspect of the training programme. R is a popular programming language in the research community especially that of disease modelling. It is open source and freely available cross platforms. On top of the rich statistical computing package library it already has, R also enjoys the support of vibrant open-source community of researchers and developers who are constantly contributing to enrich the ecosystem around R. Packages such as ggplot and shiny give R users a unique advantage when it comes to communicating research outputs with a wider audience by making it incredibly easy to make graphical representations of data and publishing them online. During this module, we will take the students through key aspects of the R programming language starting from basic notations of the language to the introduction of popular data manipulation and visualisation packages.  The module concludes with advanced topics such as code profiling and optimisation. We will give examples of mathematical models during the module to give the students a hands-on experience in model building.
+
+#### Overview
+This course gives introduction to the basic elements of the R programming language with emphasis on its application in the context of infectious disease modelling. The materials covered in this module underpins the technical aspect of the training programme. R is a popular programming language in the research community especially that of disease modelling. It is open source and freely available cross platforms. On top of the rich statistical computing package library it already has, R also enjoys the support of vibrant open-source community of researchers and developers who are constantly contributing to enrich the ecosystem around R. Packages such as ggplot and shiny give R users a unique advantage when it comes to communicating research outputs with a wider audience by making it incredibly easy to make graphical representations of data and publishing them online. During this module, we will take the students through key aspects of the R programming language starting from basic notations of the language to the introduction of popular data manipulation and visualisation packages.  The module concludes with advanced topics such as code profiling and optimisation. We will give examples of mathematical models during the module to give the students a hands-on experience in model building.
+
+
 :::
 </details>
 
 ### Infectious Disease Modelling in Context: Introduction
 
-Lead instructor: **Professor Ricardo Aguas** [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
+Tutors: **Ricardo Águas**, **Lisa White**, **Nathaniel Hupert**
 
 <details>
-  <summary>Details</summary>
+  <summary>Course Details</summary>
 
 ::: {.text_justified}
-This module provides a practical introduction to the mathematical modelling of infectious diseases. Mathematical modelling is being used with increasing frequency and scope to address questions about infectious diseases both in terms of basic science and in terms of national and international policymaking. Mathematical modellers arrive at the discipline from many backgrounds ranging from epidemiology to economics. Mathematical modelling is an interdisciplinary activity which brings together elements from mathematics, computer science, economics, demographics, virology, and immunology.
 
-In this module, the students will be supported to develop a set of basic mathematical modelling skills though a mix of practical sessions interspersed with short theory sessions. They will be given a thorough introduction to the core concepts and techniques that will permeate sessions throughout the week and some elective modules. This foundation will be solidified through key working examples and put into practice in R.  Throughout the week we will guide the students through the process of building a model suited to address a research/policy question, developing and implementing the model in mathematical and code forms, and interpret the short- and long-term dynamics produced. Starting from simple compartmental models, students will be exposed to a repository of different model typologies that could be used as a template for any future modelling exercise.
+#### Overview
+This course provides a practical introduction to the mathematical modelling of infectious diseases. Mathematical modelling is being used with increasing frequency and scope to address questions about infectious diseases both in terms of basic science and in terms of national and international policymaking. Mathematical modellers arrive at the discipline from many backgrounds ranging from epidemiology to economics. Mathematical modelling is an interdisciplinary activity which brings together elements from mathematics, computer science, economics, demographics, virology, and immunology. Throughout the module we will guide the students through the process of building a model suited to address a research/policy question, developing, and implementing the model in mathematical and code forms, and interpret the short- and long-term dynamics produced. Modelling can improve global health only as far as it impacts policy. But to do so, modellers need to be as effective at communicating their models as they are at making them. This module will include sessions on the critical steps needed to communicate both the model-building process and output of mathematical modelling to specialists and non-specialists alike. 
+
+#### Teaching Approach
+In this course, the students will be supported to develop a set of basic mathematical modelling skills though a mix of practical sessions interspersed with theory sessions. They will be given a thorough introduction to the core concepts and techniques that will permeate sessions throughout the course. This foundation will be solidified through key working examples and put into practice in R. Students will be exposed to a repository of different model structures that could be used as a template for future modelling exercises.  
+Teaching will take place online and it is the responsibility of each student to ensure that they have suitable computing and AV (e.g. headphones and mic) equipment, internet bandwidth, and relevant software and packages installed prior to the start of the course. Demonstrations will be carried out on the Windows operating system and it is recommended that students also work on the Windows operating system.
+
+#### Learning Outcomes
+By the end of the course, students will be able to:
+
+- Write a simple mathematical model that is appropriate for a specific infectious disease and related research/policy question.  
+- Understand how critical transmission related parameters, like the reproduction number, affect infectious disease dynamics.  
+- Critically examine the short- and long-term dynamics of a model.  
+- Compare and contrast different model outputs to evaluate the effectiveness of different public health interventions.  
+- Understand key recent advances in knowledge mobilization in science generally and related to mathematical modelling of infectious diseases in particular 
+
+#### Schedule
+Fridays at 09:00 to 12:00 & 13:00 to 16:00 UK time from 07/06/2024 to 05/07/2024.
+
 :::
+
 </details>
 
 ### Infectious Disease Modelling in Context: Intermediate
 
-Lead instructor: **Professor Lisa White** [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
+Tutors: **Ricardo Águas**, **Lisa White**, **Nathaniel Hupert**
 
 <details>
-  <summary>Details</summary>
+  <summary> Course Details</summary>
+
 ::: {.text_justified}
-This module will provide students with the opportunity to create and develop their own models while being introduced to concepts and approaches specific to policy-facing modelling. In the academic sector, models are developed to address a scientific question and are communicated to an academic audience. However, to bridge the gap between academic work and health policy further knowledge, communication skills and styles of working are required. In this module students will engage in a series of group projects which will guide them through the process of inception, development, and application of their own models. In parallel, the students will receive lectures and engage in discussions to uncover the challenges of working in partnership with policymakers. Students will explore the broader context in which modelling sits within the public health decision-making ecosystem and gain insights into how to bring their research to impact.
+
+#### Overview
+To effectively inform public health policy making, modelling must be, at minimum, fit-for-purpose, context conscientious, ethical, and actionable. This course will focus on how you - the modeller - can ensure that your work meets these three essential criteria. Exploring complex compartmental models and beyond, participants will be exposed to a repertoire of modelling approaches, and guided on how to select the most suitable model for each future question they may encounter. The course will also address the practicalities of fitting models to data, giving students an overview of the approaches available and an indication of options for further advanced study. In line with the course’s policy focus, various modelling communication challenges, particularly those pertaining to policy questions, will be explored along with workshopping ways to meet these challenges.
+
+#### Teaching Approach
+In this course, the students will be supported to extend their basic mathematical modelling skills though a mix of practical sessions interspersed with theory sessions. Moving on from simple compartmental models, students will be exposed, through practical sessions, to a repository of different model typologies that could be used as a template for any future modelling exercise. Taught sessions, practical exercises, roleplays, and other immersive activities will illustrate how translational considerations need to be addressed at every stage in the conceptualization, development, and presentation of mathematical modelling projects. The basic concepts of model fitting and uncertainty will be introduced through a mix of taught and practical sessions. 
+Teaching will take place online and it is the responsibility of each student to ensure that they have suitable computing and AV (e.g. headphones and mic) equipment, internet bandwidth, and relevant software and packages installed prior to the start of the course. Demonstrations will be carried out on the Windows operating system and it is recommended that students also work on the Windows operating system. 
+
+#### Learning Outcomes
+By the end of the course, students will be able to:
+
+- Understand the limits of compartmental model in addressing sources of heterogeneity and how to best address them 
+- Understand what is meant by the term “knowledge mobilization” especially in relation to mathematical modelling of infectious diseases  
+- Be able to describe examples of institutional, political, and/or logistical obstacles to the implementation of the output of mathematical models of infectious diseases  
+- Understand at least two strategies for integrating multiple model results into policy advice  
+- Describe maximum likelihood and Bayesian approaches to fitting models to data
+
+#### Schedule
+Fridays at 09:00 to 12:00 & 13:00 to 16:00 UK time from 19/07/2024 to 16/08/2024. 
+
 :::
 </details>
 
 ## Faculty
 
-- Professor Ricardo Aguas [Bio](https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas)
-
-- Professor Nathaniel Hupert [Bio](https://vivo.weill.cornell.edu/display/cwid-nah2005)
-
-- Dr Bo Gao [Bio](https://www.tropicalmedicine.ox.ac.uk/team/bo-gao)
-
-- Professor Lisa White [Bio](https://www.medawar.ox.ac.uk/team/lisa-white)
-
+```{=html}
+{{< fa thumbs-up >}} 
+<div class="grid">
+  <div class="col">
+    <div class="card h-100 border-primary bg-dark border-1 faculty_card">
+      <div class="faculty_card_img">
+        <img class="card-img-top" src="img/hs/ra.jpg" alt="Ricardo Águas">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Ricardo Águas</h5>
+        <p class="card-text">Associate Professor of Modelling and Epidemiology</p>
+        <small>University of Oxford</small>
+      </div>
+      <div class="card-footer bg-transparent border-secondary">
+        <a href="https://www.tropicalmedicine.ox.ac.uk/team/ricardo-aguas" class="btn btn-primary">Profile</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 border-primary bg-dark border-1 faculty_card">
+      <div class="faculty_card_img">
+        <img class="card-img-top" src="img/hs/te.jpg" alt="Tracy Evans">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Tracy Evans</h5>
+        <p class="card-text">Programme Manager</p>
+        <small>University of Oxford</small>
+      </div>
+      <div class="card-footer bg-transparent border-secondary">
+        <a href="https://www.linkedin.com/in/tracy-evans-41496727/" class="btn btn-primary">Profile</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 border-primary bg-dark border-1 faculty_card">
+      <div class="faculty_card_img">
+        <img class="card-img-top" src="img/hs/nh.jpg" alt="Nathaniel Hupert">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Nathaniel Hupert</h5>
+        <p class="card-text">Associate Professor of Population Health Sciences and of Medicine</p>
+        <small>Weill Cornell Medicine</small>
+      </div>
+      <div class="card-footer bg-transparent border-secondary">
+        <a href="https://vivo.weill.cornell.edu/display/cwid-nah2005" class="btn btn-primary">Profile</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 border-primary bg-dark border-1 faculty_card">
+      <div class="faculty_card_img">
+        <img class="card-img-top" src="img/hs/bg.webp" alt="Bo Gao">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Bo Gao</h5>
+        <p class="card-text">Research Associate in Mathematical Modelling</p>
+        <small>University of Oxford</small>
+      </div>
+      <div class="card-footer bg-transparent border-secondary">
+        <a href="https://www.tropicalmedicine.ox.ac.uk/team/bo-gao" class="btn btn-primary">Profile</a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100 bg-dark border-primary border-1 faculty_card">
+      <div class="faculty_card_img">
+        <img class="card-img-top faculty_card_img" src="img/hs/lw.jpg" alt="Lisa White">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Lisa White</h5>
+        <p class="card-text">Professor of Modelling and Epidemiology</p>
+        <small>University of Oxford</small>
+      </div>
+      <!-- <div class="card-footer bg-transparent border-secondary"> -->
+      <div class="card-footer bg-transparent border-secondary">
+        <a href="https://www.medawar.ox.ac.uk/team/lisa-white" class="btn btn-primary">Profile</a>
+      </div>
+    </div>
+  </div>
+</div>
+<p></p>
+```
 
 :::
 :::
@@ -170,7 +286,7 @@ Please apply using our online form [link from University Online Stores (TBA)]()
 
 For further information contact [email (TBA)]().
 
-We also provide bespoke versions of this course for organisations. Please contact us if you would like to discuss this opportunity further.
+We also provide bespoke versions of this course for organisations. Please [contact us](../contact.html) if you would like to discuss this opportunity further.
 
 :::
 
