@@ -87,17 +87,28 @@ Exact dates, day and time of the week will be provided in due course.
 
 ## Courses
 
-### Introduction to R for modellers {#course-r}
+### Introduction to R for Modellers {#course-r}
 
 Tutor: **Bo Gao**
 
 <details>
-  <summary>Details</summary>
+  <summary>Course Details</summary>
 
 ::: {.text_justified}
 
 #### Overview
 This course gives introduction to the basic elements of the R programming language with emphasis on its application in the context of infectious disease modelling. The materials covered in this module underpins the technical aspect of the training programme. R is a popular programming language in the research community especially that of disease modelling. It is open source and freely available cross platforms. On top of the rich statistical computing package library it already has, R also enjoys the support of vibrant open-source community of researchers and developers who are constantly contributing to enrich the ecosystem around R. Packages such as ggplot and shiny give R users a unique advantage when it comes to communicating research outputs with a wider audience by making it incredibly easy to make graphical representations of data and publishing them online. During this module, we will take the students through key aspects of the R programming language starting from basic notations of the language to the introduction of popular data manipulation and visualisation packages.  The module concludes with advanced topics such as code profiling and optimisation. We will give examples of mathematical models during the module to give the students a hands-on experience in model building.
+
+#### Learning Outcomes
+By the end of the course, students will be able to:
+
+- Read and write a programming script written in R
+- Install and load commonly used packages in the R ecosystem
+- Import, manipulate, analyse, and visualise data sets in R
+- Implement simple mathematical models in R
+
+#### Schedule
+Tuesdays and Fridays at 09:00 to 12:00 UK time from 23/04/2024 to 24/05/2024.
 
 
 :::
