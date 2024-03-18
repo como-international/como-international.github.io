@@ -6,6 +6,7 @@ website:
   title: ""
   site-url: https://como-international.github.io
   favicon: img/favicon.png
+  google-analytics: "G-CKG6D2B9DS"
 
   page-footer:
     center: Made with [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
