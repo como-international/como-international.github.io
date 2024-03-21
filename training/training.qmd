@@ -293,11 +293,15 @@ Please read our pricing policy [link (TBA)]()
 
 ### Apply
 
-Please apply using our online form [link from University Online Stores (TBA)]()
+Please apply using our online form:
 
-For further information contact [email (TBA)]().
+[Apply to join Introduction to R for Modellers](https://forms.office.com/e/vP1a5Pc2tg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
-We also provide bespoke versions of this course for organisations. Please [contact us](../contact.html) if you would like to discuss this opportunity further.
+[Subscribe to be informed about future events](){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+
+For further information contact [como.enquiries@ndm.ox.ac.uk](mailto:como.enquiries@ndm.ox.ac.uk).
+
+We also provide bespoke versions of this course for organisations. Please [contact us](mailto:como.enquiries@ndm.ox.ac.uk) if you would like to discuss this opportunity further.
 
 :::
 
