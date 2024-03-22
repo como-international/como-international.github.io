@@ -297,7 +297,7 @@ Please apply using our online form:
 
 [Apply to join Introduction to R for Modellers](https://forms.office.com/e/vP1a5Pc2tg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
-[Subscribe to be informed about future events](){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Subscribe to be informed about future events](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
 For further information contact [como.enquiries@ndm.ox.ac.uk](mailto:como.enquiries@ndm.ox.ac.uk).
 
