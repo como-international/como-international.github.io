@@ -112,7 +112,7 @@ By the end of the course, students will be able to:
 - Implement simple mathematical models in R
 
 #### Schedule
-Tuesdays and Fridays at 09:00 to 12:00 UK time from 23/04/2024 to 24/05/2024.
+Tuesdays and Fridays at 09:00 to 12:00, UK time, from 23 April 2024 to 24 May 2024.
 
 
 :::
@@ -147,7 +147,7 @@ By the end of the course, students will be able to:
 - Understand key recent advances in knowledge mobilization in science generally and related to mathematical modelling of infectious diseases in particular 
 
 #### Schedule
-Fridays at 09:00 to 12:00 & 13:00 to 16:00 UK time from 07/06/2024 to 05/07/2024.
+Fridays at 09:00 to 12:00 & 13:00 to 16:00, UK time, from 07 June 2024 to 05 July 2024.
 
 :::
 
@@ -180,7 +180,7 @@ By the end of the course, students will be able to:
 - Describe maximum likelihood and Bayesian approaches to fitting models to data
 
 #### Schedule
-Fridays at 09:00 to 12:00 & 13:00 to 16:00 UK time from 19/07/2024 to 16/08/2024. 
+Fridays at 09:00 to 12:00 & 13:00 to 16:00, UK time, from 19 July 2024 to 16 August 2024. 
 
 :::
 </details>
