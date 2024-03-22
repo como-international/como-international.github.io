@@ -67,9 +67,9 @@ We can also provide bespoke versions of this course for organisations. Please [c
 
 | Courses  | Dates |
 |:--------|------:|
-| Introduction to R for Modellers | April – May 2024 |
-| Infectious Disease Modelling in Context: Introduction | June – July 2024 |
-| Infectious Disease Modelling in Context: Intermediate | August – September 2024 |
+| Introduction to R for Modellers | 23 April 2024 – 24 May 2024 |
+| Infectious Disease Modelling in Context: Introduction | 7 June 2024 – 5 July 2024 |
+| Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 |
 
 ::: {.callout-note}
 
@@ -97,7 +97,9 @@ Tutor: **Bo Gao**
 ::: {.text_justified}
 
 #### Overview
-This course gives introduction to the basic elements of the R programming language with emphasis on its application in the context of infectious disease modelling. The materials covered in this module underpins the technical aspect of the training programme. R is a popular programming language in the research community especially that of disease modelling. It is open source and freely available cross platforms. On top of the rich statistical computing package library it already has, R also enjoys the support of vibrant open-source community of researchers and developers who are constantly contributing to enrich the ecosystem around R. Packages such as ggplot and shiny give R users a unique advantage when it comes to communicating research outputs with a wider audience by making it incredibly easy to make graphical representations of data and publishing them online. During this module, we will take the students through key aspects of the R programming language starting from basic notations of the language to the introduction of popular data manipulation and visualisation packages.  The module concludes with advanced topics such as code profiling and optimisation. We will give examples of mathematical models during the module to give the students a hands-on experience in model building.
+This course provides introduction to the basic elements of the R programming language with emphasis on its application in the context of infectious disease modelling. The materials covered in this module underpin the technical aspect of the training programme. R is a popular programming language in the research community especially that of disease modelling. It is open source and freely available cross platforms. On top of the rich statistical computing package library it already has, R also enjoys the support of a vibrant open-source community of researchers and developers who are constantly contributing to enrich the ecosystem around R. Packages such as ggplot and shiny give R users a unique advantage when it comes to communicating research outputs with a wider audience by making it incredibly easy to make graphical representations of data and publish them online. In this module, we will take the students through key aspects of the R programming language starting from basic notations of the language to the introduction of popular data manipulation and visualisation packages.  The module concludes with advanced topics such as code profiling and optimisation. We will give examples of mathematical models during the module to give the students a hands-on experience in model building.
+
+Teaching will take place online and it is the responsibility of each student to ensure that they have suitable computing and AV (e.g. headphones and mic) equipment, internet bandwidth, and relevant software and packages installed prior to the start of the course. Demonstrations will be carried out on the Windows operating system and it is recommended that students also work on the Windows operating system.
 
 #### Learning Outcomes
 By the end of the course, students will be able to:
@@ -124,7 +126,7 @@ Tutors: **Ricardo Águas**, **Lisa White**, **Nathaniel Hupert**
 ::: {.text_justified}
 
 #### Overview
-This course provides a practical introduction to the mathematical modelling of infectious diseases. Mathematical modelling is being used with increasing frequency and scope to address questions about infectious diseases both in terms of basic science and in terms of national and international policymaking. Mathematical modellers arrive at the discipline from many backgrounds ranging from epidemiology to economics. Mathematical modelling is an interdisciplinary activity which brings together elements from mathematics, computer science, economics, demographics, virology, and immunology. Throughout the module we will guide the students through the process of building a model suited to address a research/policy question, developing, and implementing the model in mathematical and code forms, and interpret the short- and long-term dynamics produced. Modelling can improve global health only as far as it impacts policy. But to do so, modellers need to be as effective at communicating their models as they are at making them. This module will include sessions on the critical steps needed to communicate both the model-building process and output of mathematical modelling to specialists and non-specialists alike. 
+This course provides a practical introduction to the mathematical modelling of infectious diseases. Mathematical modelling is being used with increasing frequency and scope to address questions about infectious diseases both in terms of basic science and in terms of national and international policymaking. Mathematical modellers arrive at the discipline from many backgrounds ranging from epidemiology to economics. Mathematical modelling is an interdisciplinary activity which brings together elements from mathematics, computer science, economics, demographics, virology, and immunology. Throughout the module we will guide the students through the process of building a model suited to address a research/policy question, developing, and implementing the model in mathematical and code forms, and interpreting the short- and long-term dynamics produced. Modelling can improve global health only as far as it impacts policy. But to do so, modellers need to be as effective at communicating their models as they are at making them. This module will include sessions on the critical steps needed to communicate both the model-building process and output of mathematical modelling to specialists and non-specialists alike. 
 
 #### Teaching Approach
 In this course, the students will be supported to develop a set of basic mathematical modelling skills though a mix of practical sessions interspersed with theory sessions. They will be given a thorough introduction to the core concepts and techniques that will permeate sessions throughout the course. This foundation will be solidified through key working examples and put into practice in R. Students will be exposed to a repository of different model structures that could be used as a template for future modelling exercises.  
@@ -165,7 +167,7 @@ Teaching will take place online and it is the responsibility of each student to 
 #### Learning Outcomes
 By the end of the course, students will be able to:
 
-- Understand the limits of compartmental model in addressing sources of heterogeneity and how to best address them 
+- Understand the limits of compartmental models in addressing sources of heterogeneity and how to best address them 
 - Understand what is meant by the term “knowledge mobilization” especially in relation to mathematical modelling of infectious diseases  
 - Be able to describe examples of institutional, political, and/or logistical obstacles to the implementation of the output of mathematical models of infectious diseases  
 - Understand at least two strategies for integrating multiple model results into policy advice  
