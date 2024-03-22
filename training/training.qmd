@@ -64,18 +64,18 @@ We can also provide bespoke versions of this course for organisations. Please [c
 
 ### Dates
 
-
 | Courses  | Dates |
 |:--------|------:|
 | Introduction to R for Modellers | 23 April 2024 – 24 May 2024 |
 | Infectious Disease Modelling in Context: Introduction | 7 June 2024 – 5 July 2024 |
 | Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 |
 
-::: {.callout-note}
+<!-- | Courses  | Dates | Apply |
+|:--------|:--------|------:|
+| Introduction to R for Modellers | 23 April 2024 – 24 May 2024 | [Apply to join](https://forms.office.com/e/vP1a5Pc2tg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"} |
+| Infectious Disease Modelling in Context: Introduction | 7 June 2024 – 5 July 2024 | [Subscribe to be informed about future events](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"} |
+| Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 | [Subscribe to be informed about future events](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"} | -->
 
-Exact dates, day and time of the week will be provided in due course.
-
-:::
 
 :::
 :::
