@@ -140,11 +140,11 @@ Teaching will take place online and it is the responsibility of each student to 
 #### Learning Outcomes
 By the end of the course, students will be able to:
 
-- Write a simple mathematical model that is appropriate for a specific infectious disease and related research/policy question.  
-- Understand how critical transmission related parameters, like the reproduction number, affect infectious disease dynamics.  
-- Critically examine the short- and long-term dynamics of a model.  
-- Compare and contrast different model outputs to evaluate the effectiveness of different public health interventions.  
-- Understand key recent advances in knowledge mobilization in science generally and related to mathematical modelling of infectious diseases in particular 
+- Write a simple mathematical model that is appropriate for a specific infectious disease and related research/policy question
+- Understand how critical transmission related parameters, like the reproduction number, affect infectious disease dynamics
+- Critically examine the short- and long-term dynamics of a model
+- Compare and contrast different model outputs to evaluate the effectiveness of different public health interventions
+- Understand key recent advances in knowledge mobilization in science generally and related to mathematical modelling of infectious diseases in particular
 
 #### Schedule
 Fridays at 09:00 to 12:00 & 13:00 to 16:00, UK time, from 07 June 2024 to 05 July 2024.
