@@ -64,17 +64,17 @@ We can also provide bespoke versions of this course for organisations. Please [c
 
 ### Dates
 
-| Courses  | Dates |
+<!-- | Courses  | Dates |
 |:--------|------:|
 | Introduction to R for Modellers | 23 April 2024 – 24 May 2024 |
 | Infectious Disease Modelling in Context: Introduction | 7 June 2024 – 5 July 2024 |
-| Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 |
+| Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 | -->
 
-<!-- | Courses  | Dates | Join or Subscribe |
+| Courses  | Dates | Join or Subscribe |
 |:--------|:--------|:------|
 | Introduction to R for Modellers | 23 April 2024 – 24 May 2024 | [Next event: Apply to join](https://forms.office.com/e/vP1a5Pc2tg){.btn-action-primary .btn-action .btn .btn-success .btn-sm role="button"} |
 | Infectious Disease Modelling in Context: Introduction | 7 June 2024 – 5 July 2024 | [Future event: Subscribe to be notified](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-sm role="button"} |
-| Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 | [Future event: Subscribe to be notified](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-sm role="button"} | -->
+| Infectious Disease Modelling in Context: Intermediate | 19 July 2024 – 16 August 2024 | [Future event: Subscribe to be notified](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-sm role="button"} |
 
 
 :::
@@ -303,9 +303,9 @@ Please read our [pricing policy](Training_Programme_Pricing_Policy_March_2024_Fi
 
 Please apply using our online form:
 
-[Apply to join Introduction to R for Modellers]{.btn-action-secondary .btn-action .btn .btn-secondary .btn-lg role="button"}
+<!-- [Apply to join Introduction to R for Modellers]{.btn-action-secondary .btn-action .btn .btn-secondary .btn-lg role="button"} -->
 
-<!-- [Apply to join Introduction to R for Modellers](https://forms.office.com/e/vP1a5Pc2tg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button disabled"} -->
+[Apply to join Introduction to R for Modellers](https://forms.office.com/e/vP1a5Pc2tg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button disabled"}
 
 
 [Subscribe to be informed about future events](https://forms.office.com/e/TAjR6QQA1E){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
