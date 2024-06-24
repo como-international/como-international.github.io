@@ -164,6 +164,13 @@ Tutors: **Ricardo Águas**, **Lisa White**, **Nathaniel Hupert**
 
 ::: {.text_justified}
 
+#### Prerequisites
+ 
+This course is suitable for students who meet the following prerequisites and knowledge:
+
+  - Basic programming skills, similar to the level reached on completion of our "Introduction to R for Modellers" course
+  - Basic knowledge of infectious disease modelling, similar to the level reached on completion of the course on "Infectious Disease Modelling in Context: Introduction" course
+
 #### Overview
 To effectively inform public health policy making, modelling must be, at minimum, fit-for-purpose, context conscientious, ethical, and actionable. This course will focus on how you - the modeller - can ensure that your work meets these three essential criteria. Exploring complex compartmental models and beyond, participants will be exposed to a repertoire of modelling approaches, and guided on how to select the most suitable model for each future question they may encounter. The course will also address the practicalities of fitting models to data, giving students an overview of the approaches available and an indication of options for further advanced study. In line with the course’s policy focus, various modelling communication challenges, particularly those pertaining to policy questions, will be explored along with workshopping ways to meet these challenges.
 
