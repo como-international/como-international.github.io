@@ -20,10 +20,28 @@ format:
     <tr class="">
       <th scope="row">#</th>
       <td>
+**Multiple models for outbreak decision support in the face of uncertainty**<br>
+Katriona Shea, Rebecca Bouchering, William J. M. Probert, Michael C. Runge, Ricardo Aguas, Sean Cavany, Lisa White, et al<br>
+*Proceedings of the National Academy of Sciences* (April 2023)<br>
+<https://doi.org/10.1073/pnas.2207537120>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
 **Impact of Non-pharmaceutical Interventions on the Control of COVID-19 in Iran: A Mathematical Modelling Study**<br>
 Mehran Nakhaeizadeh, Sana Eybpoosh, Yunes Jahani, Milad Ahmadi Gohari, Ali Akbar Haghdoost, Lisa J White, Hamid Sharifi<br>
 *International Journal of Health and Policy Management* (August 2022)<br>
 <https://doi.org/10.34172/ijhpm.2021.48>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold**<br>
+M. Gabriela, M. Gomes, Marcelo U. Ferreira, Rodrigo M. Corder, Jessica G. King, Caetano Souto-Maior, Carlos Penha-Gonçalves, Guilherme Gonçalves, Maria Chikina, Wesley Pegden, Ricardo Aguas<br>
+*Journal of Theoretical Biology* (May 2022)<br>
+<https://doi.org/10.1016/j.jtbi.2022.111063>
       </td>
     </tr>
     <tr class="">
@@ -47,10 +65,28 @@ Ricardo Águas, Anouska Bharath, Lisa J. White, Bo Gao, Andrew J. Pollard, Merry
     <tr class="">
       <th scope="row">#</th>
       <td>
+**Levels of SARS-CoV-2 population exposure are considerably higher than suggested by seroprevalence surveys**<br>
+Siyu Chen, Jennifer A. Flegg, Lisa J. White, Ricardo Aguas<br>
+*PLOS Computational Biology* (September 2021)<br>
+<https://doi.org/10.1371/journal.pcbi.1009436>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
 **New COVID-19 Resurgence in the WHO Eastern Mediterranean Region**<br>
 Pierre Nabeth, Mahmoud Hassan, Keyrellous Adib, Abdinasir Abubakar, Richard Brennan<br>
 *The Lancet* (March 2021)<br>
 <https://doi.org/10.1016/S0140-6736(21)00679-6>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**A participatory modelling approach for investigating the spread of COVID-19 in countries of the Eastern Mediterranean Region to support public health decision-making**<br>
+Keyrellous Adib, Penelope A. Hancock, Aysel Rahimli, Bridget Mugisa, Fayez Abdulrazeq, Noha Farag, Ricardo Aguas, Lisa White, Rana Hajjeh, Lubna Al Ariqi, Pierre Nabeth<br>
+*BMJ Global Health* (March 2021)<br>
+<https://doi.org/10.1136/bmjgh-2021-005207>
       </td>
     </tr>
     <tr class="">
@@ -92,15 +128,6 @@ Wiriya Mahikul, Palang Chotsiri, Kritchavat Ploddi, Wirichada Pan-ngum<br>
     <tr class="">
       <th scope="row">#</th>
       <td>
-**Perspectives on public health interventions in the management of the COVID-19 pandemic in Thailand**<br>
-Wirichada Pan-ngum, Tassawan Poomchaichote, Pimnara Peerawaranun, Natinee Kulpijit, Anne Osterrieder, Naomi Waithira, Mavuto Mukaka, Bhensri Naemiratch, Rita Chanviriyavuth, Supa-at Asarath, Supanat Ruangkajorn, Noppadon Kannika, Phaik Yeong Cheah<br>
-*Wellcome Open Research* (October 2020)<br>
-<https://doi.org/10.12688/wellcomeopenres.16293.1>
-      </td>
-    </tr>
-    <tr class="">
-      <th scope="row">#</th>
-      <td>
 **The Immunologists’ Guide to Pandemic Preparedness**<br>
 Daniela Marín-Hernández, Nathaniel Hupert, Douglas F Nixon<br>
 *Trends in Immunology* (December 2020)<br>
@@ -119,10 +146,37 @@ Ricardo Águas, Lisa White, Nathaniel Hupert, Rima Shretta, Wirichada Pan-Ngum, 
     <tr class="">
       <th scope="row">#</th>
       <td>
+**Perspectives on public health interventions in the management of the COVID-19 pandemic in Thailand**<br>
+Wirichada Pan-ngum, Tassawan Poomchaichote, Pimnara Peerawaranun, Natinee Kulpijit, Anne Osterrieder, Naomi Waithira, Mavuto Mukaka, Bhensri Naemiratch, Rita Chanviriyavuth, Supa-at Asarath, Supanat Ruangkajorn, Noppadon Kannika, Phaik Yeong Cheah<br>
+*Wellcome Open Research* (October 2020)<br>
+<https://doi.org/10.12688/wellcomeopenres.16293.1>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**COVID-19 Pandemic Modelling in Context: Uniting People and Technology across Nations**<br>
+Ricardo Aguas, Nathaniel Hupert, Rima Shretta, Olivier Celhay, Caroline Franco, Renato Coutinho, Ainura Moldokmatova, Fatima Arifi, Mohammed Nadir Sahak, Ali Mirzazadeh, Hamid Sharifi, Keyrellous Adib, Wirichada Pan-ngum, Lisa J. White, and The CoMo Consortium<br>
+*Preprint* (July 2020)<br>
+<https://www.researchgate.net/publication/342747645_COVID-19_Pandemic_Modelling_in_Context_Uniting_People_and_Technology_Across_Nations>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
 **Comparing the Potential Effectiveness of Interventions against Coronavirus 2019 Outbreak in the Lao PDR: A Mathematical Modelling Approach**<br>
 Phetsavanh Chanthavilay, Mick Soukavong, Yun Nandar Aung, Sai Thein Than Tun, Lisa J. White, Mayfong Mayxay<br>
 *Lao Medical Journal* (2020, 11(11):3-7)<br>
 <https://pesquisa.bvsalud.org/portal/resource/pt/wpr-829289?lang=en>
+      </td>
+    </tr>
+    <tr class="">
+      <th scope="row">#</th>
+      <td>
+**Herd Immunity Thresholds for SARS-CoV-2 Estimated from Unfolding Epidemics**<br>
+Ricardo Aguas, Rodrigo M. Corder, Jessica G. King, Guilherme Goncalves, Marcelo Ferreira, Gabriela Gomes<br>
+*Preprint* (July 2020)<br>
+<https://doi.org/10.1101/2020.07.23.20160762>
       </td>
     </tr>
   </tbody>
